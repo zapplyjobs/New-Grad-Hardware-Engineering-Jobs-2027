@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2302-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2299-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-265-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Moog** | Associate Manufacturing Engineer | Buffalo, NY | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Manufacturing-Engineer_R-26-17327) |
 | **BlackRock** | Artificial Intelligence & Machine Lea... | New York, NY | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Associate_R261707) |
 | **Carrier Global** | Associate Field Engineer | 2 Locations | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CO56-ALC-Colorado-Office-8200-South-Akron-Street-Suite-112-Centennial-CO-80112-USA/Associate-Field-Engineer_30206315) |
-| **Ambarella** | ASIC Design Engineer | United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer_JR100053-1) |
+| **Ambarella** | ASIC Design Engineer | United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer_JR100053-1) |
 | **NVIDIA** | ASIC Verification Engineer | US, TX, Austin | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873) |
 | **NVIDIA** | SOC Design Engineer, ASIC Tools and M... | US, TX, Austin | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177) |
 | **Axiom Space** | Associate, Propulsion Test Engineer (... | Houston | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Associate--Propulsion-Test-Engineer--early-career-_JR100522) |
@@ -338,7 +338,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KION Group** | RSD Intern - Test Engineering | Grand Rapids, MI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332) |
 | **Cirrus Logic** | Analog/Mixed-Signal Verification Inte... | Austin, TX | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) |
 | **Emerson Electric** | Hardware Analog Engineer | Austin, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004082) |
-| **Polaris** | Validation Engineer (Snowmobiles) | Roseau, MN, USA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Validation-Engineer--Snowmobiles-_R29696) |
+| **Polaris** | Validation Engineer (Snowmobiles) | Roseau, MN, USA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Validation-Engineer--Snowmobiles-_R29696) |
 | **NVIDIA** | System Level Test Engineer | US, CA, Santa Clara | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Level-Test-Engineer_JR2017918) |
 | **Amentum** | Intern - Nuclear Materials Test Engineer | Huntsville, AL | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Intern---Nuclear-Materials-Test-Engineer_R0161674) |
 | **KBR** | SATCOM Test Engineer | Colorado Springs,... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/SATCOM-Test-Engineer_R2123975) |
@@ -426,7 +426,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rolls Royce** | Vehicle Electronics Test & Validation... | Spartanburg, SC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors) |
 | **Broadcom** | ATE Test Development Engineer | 2 Locations | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/ATE-Test-Development-Engineer_R026084) |
 | **CVS Health** | Quality Engineer | Work from home, VA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Quality-Engineer_R0901649) |
-| **Anduril** | Product Quality Engineer, Intelligenc... | Santa Ana, Califo... | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5007201007?gh_jid=5007201007) |
+| **Anduril** | Product Quality Engineer, Intelligenc... | Santa Ana, Califo... | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5007201007?gh_jid=5007201007) |
 | **NVIDIA** | ATE Test Development Engineer | US, CA, Santa Clara | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Development-Engineer_JR2018073) |
 | **Intuitive** | Continuous Improvement Quality Engine... | Sunnyvale, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127470718) |
 | **Intuitive** | Continuous Improvement Quality Engine... | Sunnyvale, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127445291) |
@@ -530,7 +530,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2302 current opportunities from 265 companies**
+**🎯 2299 current opportunities from 265 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
