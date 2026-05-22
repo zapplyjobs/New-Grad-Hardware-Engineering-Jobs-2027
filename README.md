@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2293-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2288-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-259-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -354,7 +354,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | C-UAS Test Engineer | Alexandria, VA, US | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Alexandria-VA-US/Test-Engineer_326673) |
 | **CACI** | C-UAS Test Engineer | Alexandria, VA, US | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Alexandria-VA-US/Test-Engineer_326672) |
 | **Intel** | CPU Validation Engineer | US, Texas, Austin | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Validation-Engineer_JR0283494) |
-| **Booz Allen Hamilton** | UAS Flight Test Engineer | Lorton, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/UAS-Flight-Test-Engineer_R0238814-1) |
+| **Booz Allen Hamilton** | UAS Flight Test Engineer | Lorton, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/UAS-Flight-Test-Engineer_R0238814-1) |
 | **Anduril** | Manager, Manufacturing Test Engineering | Costa Mesa, Calif... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5140918007?gh_jid=5140918007) |
 | **NVIDIA** | Manager, System Test Engineering | US, CA, Santa Clara | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Manager--System-Test-Engineering_JR2018035) |
 | **SEL** | Power Engineer Intern | Pullman | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer-Intern_2026-19708) |
@@ -431,7 +431,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | Product Quality Engineer, Intelligenc... | Santa Ana, Califo... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5007201007?gh_jid=5007201007) |
 | **NVIDIA** | ATE Test Development Engineer | US, CA, Santa Clara | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Development-Engineer_JR2018073) |
 | **Intuitive** | Continuous Improvement Quality Engine... | Sunnyvale, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127470718) |
-| **Intuitive** | Continuous Improvement Quality Engine... | Sunnyvale, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127445291) |
+| **Intuitive** | Continuous Improvement Quality Engine... | Sunnyvale, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127445291) |
 | **WSP** | Assistant Vice President Nuclear Labo... | Atlanta, GA, Unit... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87500) |
 | **Wellmark, Inc.** | Quality Engineer III | Des Moines, IA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000127291889) |
 | **Axon** | Product Quality Engineer II (Onsite) | Scottsdale, Arizo... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7732642003) |
@@ -529,7 +529,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2293 current opportunities from 259 companies**
+**🎯 2288 current opportunities from 259 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
