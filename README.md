@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2277-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2269-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-257-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BlackRock** | Artificial Intelligence & Machine Lea... | New York, NY | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Associate_R261707) |
 | **BlackRock** | Associate, Financial Platform Enginee... | Wilmington, DE | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--Financial-Platform-Engineer--Java----Wilmington--DE_R264440) |
 | **Aerospace Corporation** | Field-Programmable Gate Array (FPGA) ... | El Segundo, CA + ... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Field-Programmable-Gate-Array--FPGA--Firmware-Design-Engineer_R015471) |
-| **Moog** | Associate Manufacturing Engineer | Buffalo, NY | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Manufacturing-Engineer_R-26-17327) |
+| **Moog** | Associate Manufacturing Engineer | Buffalo, NY | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Manufacturing-Engineer_R-26-17327) |
 | **SpaceX** | FPGA/ASIC Design Engineer (Silicon En... | Redmond, WA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8560022002?gh_jid=8560022002) |
 | **Ambarella** | ASIC Design Engineer | United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer_JR100053-1) |
 | **NVIDIA** | ASIC Verification Engineer | US, TX, Austin | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873) |
@@ -225,7 +225,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eversource Energy** | Associate Engineer (Civil), Transmiss... | Hartford, CT | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Associate-Engineer--Civil---Transmission-Line-Engineering--Hybrid-Schedule-_R-029529) |
 | **Cisco** | ASIC Physical Design Engineer | Maynard Massachus... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Physical-Design-Engineer_2011519) |
 | **Analog Devices** | Associate Applications Engineer (Powe... | US, CA, San Jose,... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Applications-Engineer_R256049) |
-| **Curtiss-Wright** | Software Development Engineer, Associate | Tewksbury, MA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-MA-Tewksbury-TCG/Software-Development-Engineer--Associate_JR12206-1) |
+| **Curtiss-Wright** | Software Development Engineer, Associate | Tewksbury, MA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-MA-Tewksbury-TCG/Software-Development-Engineer--Associate_JR12206-1) |
 | **AMD** | FPGA Prototyping and Emulation Engineer | San Jose, CA, Uni... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/84564/login) |
 | **Cisco** | ASIC Design Verfication Engineer II (... | San Jose Californ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verfication-Engineer-II--Full-Time----United-States_2002902) |
 | **SEL** | Associate Mechanical Engineer | Pullman | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Mechanical-Engineer_2026-20476) |
@@ -296,7 +296,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WHOOP** | Embedded Engineer | Boston, MA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/e8171c38-fbc5-4ce2-a8e5-fe9e4934bbae/apply) |
 | **FLIR Systems** | Cyber Software Engineer (Embedded) | Stillwater, OK | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Stillwater-OK/Senior-Cyber-Software-Engineer--Embedded-_REQ33323) |
 | **Bose** | Embedded Software Engineer | US, MA - Framingham | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer_R28615) |
-| **Northrop Grumman** | Embedded Software Engineer (San Diego) | California | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Embedded-Software-Engineer--San-Diego-_R10233070) |
 | **Micron** | Intern - SSD Firmware | San Jose, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017) |
 | **Bosch Group** | Engine / Vehicle Embedded Controls In... | Farmington Hills, MI | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) |
 | **Draper** | Embedded Quality & Fielded Systems In... | Cambridge, MA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002501) |
@@ -529,7 +528,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2277 current opportunities from 257 companies**
+**🎯 2269 current opportunities from 257 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
