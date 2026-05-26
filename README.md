@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1849-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1848-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -163,10 +163,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Crane Co.** | Application Engineer - Pressure Sewer | Vandalia, OH | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Application-Engineer---Pressure-Sewer_JR101480) |
 | **Vertiv** | Manufacturing Engineering Technician | Ashland, KY | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262349) |
 | **Advanced Energy** | Rotational Field Application Engineer | Milpitas, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors) |
-| **Moog** | Final Shipping Inspector | Torrance, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Final-Shipping-Inspector_R-26-17091) |
-| **Moog** | Metrology Electronic Calibration Tech... | Torrance, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Metrology-Electronic-Calibration-Technician_R-26-17551) |
-| **Moog** | Operational Excellence Intern | Torrance, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Operational-Excellence-Intern_R-25-15222) |
-| **Magna** | Tooling Engineer | Milton, Ontario, CA | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Tooling-Engineer_R00243124) |
+| **Moog** | Final Shipping Inspector | Torrance, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Final-Shipping-Inspector_R-26-17091) |
+| **Moog** | Metrology Electronic Calibration Tech... | Torrance, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Metrology-Electronic-Calibration-Technician_R-26-17551) |
+| **Moog** | Operational Excellence Intern | Torrance, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Operational-Excellence-Intern_R-25-15222) |
+| **Magna** | Tooling Engineer | Milton, Ontario, CA | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Tooling-Engineer_R00243124) |
 | **HPE (University)** | Engineering Technical Program Manager | 3 Locations | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Technical-Program-Manager_1206118) |
 
 <p align="center">Apply for more jobs at</p>
@@ -229,7 +229,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Aerospace Corporation** | Field-Programmable Gate Array (FPGA) ... | El Segundo, CA + ... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Field-Programmable-Gate-Array--FPGA--Firmware-Design-Engineer_R015471) |
 | **Solidigm** | Solid State Drive Media Integration F... | Rancho Cordova, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000127517749) |
 | **Apple** | Cellular RF Firmware Engineer | San Diego | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664518/cellular-rf-firmware-engineer) |
-| **RTX** | Associate Engineer - Mechanical Design | Ka, IN | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Engineer---Mechanical-Design_01839866) |
+| **RTX** | Associate Engineer - Mechanical Design | Ka, IN | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Engineer---Mechanical-Design_01839866) |
 | **LLNL** | Mechanical Engineering Technical Asso... | Livermore, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013233056) |
 | **Amentum** | Technical Associate | Washington, DC | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Technical-Associate_R0161543-1) |
 | **Nokia** | Firmware Engineer | United States | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36431) |
@@ -366,7 +366,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BorgWarner** | Validation Intern | Kokomo, IN | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1880) |
 | **Nokia** | Photonic Circuit Test Development Eng... | United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176) |
 | **Rolls Royce** | Vehicle Electronics Test & Validation... | Spartanburg, SC | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors) |
-| **Baker Hughes** | Quality Engineer/ Specialist - Compli... | 2 Locations | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-LA-BROUSSARD-1058-BAKER-HUGHES-DR/Quality-Engineer--Specialist---Compliance_R164837) |
+| **Baker Hughes** | Quality Engineer/ Specialist - Compli... | 2 Locations | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-LA-BROUSSARD-1058-BAKER-HUGHES-DR/Quality-Engineer--Specialist---Compliance_R164837) |
 | **Apple** | Manufacturing Quality Engineer (MQE) ... | Cupertino | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663681/manufacturing-quality-engineer-mqe-enclosures) |
 | **Hitachi** | Quality Engineer | Crystal Springs, ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Quality-Engineer_R0130563) |
 | **RTX** | Factory Quality Engineer - 3rd shift | Tucson, AZ | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Factory-Quality-Engineer---3rd-shift_01847831) |
@@ -491,7 +491,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1849 current opportunities from 222 companies**
+**🎯 1848 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
