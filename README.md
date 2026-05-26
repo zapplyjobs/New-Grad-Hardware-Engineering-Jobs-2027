@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1895-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1894-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-225-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -163,10 +163,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Crane Co.** | Application Engineer - Pressure Sewer | Vandalia, OH | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Application-Engineer---Pressure-Sewer_JR101480) |
 | **Vertiv** | Manufacturing Engineering Technician | Ashland, KY | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262349) |
 | **Advanced Energy** | Rotational Field Application Engineer | Milpitas, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors) |
-| **Moog** | Final Shipping Inspector | Torrance, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Final-Shipping-Inspector_R-26-17091) |
-| **Moog** | Metrology Electronic Calibration Tech... | Torrance, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Metrology-Electronic-Calibration-Technician_R-26-17551) |
-| **Moog** | Operational Excellence Intern | Torrance, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Operational-Excellence-Intern_R-25-15222) |
-| **Magna** | Tooling Engineer | Milton, Ontario, CA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Tooling-Engineer_R00243124) |
+| **Moog** | Final Shipping Inspector | Torrance, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Final-Shipping-Inspector_R-26-17091) |
+| **Moog** | Metrology Electronic Calibration Tech... | Torrance, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Metrology-Electronic-Calibration-Technician_R-26-17551) |
+| **Moog** | Operational Excellence Intern | Torrance, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Operational-Excellence-Intern_R-25-15222) |
+| **Magna** | Tooling Engineer | Milton, Ontario, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Tooling-Engineer_R00243124) |
 | **HPE (University)** | Engineering Technical Program Manager | 3 Locations | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Technical-Program-Manager_1206118) |
 
 <p align="center">Apply for more jobs at</p>
@@ -370,7 +370,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BorgWarner** | Validation Intern | Kokomo, IN | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1880) |
 | **Nokia** | Photonic Circuit Test Development Eng... | United States | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176) |
 | **Rolls Royce** | Vehicle Electronics Test & Validation... | Spartanburg, SC | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors) |
-| **Baker Hughes** | Quality Engineer/ Specialist - Compli... | 2 Locations | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-LA-BROUSSARD-1058-BAKER-HUGHES-DR/Quality-Engineer--Specialist---Compliance_R164837) |
+| **Baker Hughes** | Quality Engineer/ Specialist - Compli... | 2 Locations | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-LA-BROUSSARD-1058-BAKER-HUGHES-DR/Quality-Engineer--Specialist---Compliance_R164837) |
 | **Apple** | Manufacturing Quality Engineer (MQE) ... | Cupertino | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663681/manufacturing-quality-engineer-mqe-enclosures) |
 | **Hitachi** | Quality Engineer | Crystal Springs, ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Quality-Engineer_R0130563) |
 | **RTX** | Factory Quality Engineer - 3rd shift | Tucson, AZ | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Factory-Quality-Engineer---3rd-shift_01847831) |
@@ -432,7 +432,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FLIR Systems** | Quality Engineer | Lincoln, UK | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Quality-Engineer_REQ34480) |
 | **Wellmark, Inc.** | Quality Engineer III | Des Moines, IA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000127291889) |
 | **Axon** | Product Quality Engineer II (Onsite) | Scottsdale, Arizo... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7732642003) |
-| **Intuitive** | Continuous Improvement Quality Engine... | Peachtree Corners... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127203272) |
 | **Johnson & Johnson** | QSDS Quality Engineer Co-Op | Cincinnati, Ohio,... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Systems-and-Digital-Services-Quality-Engineer-Co-Op---Fall-2026_R-071416) |
 | **Moog** | Intern, Quality Engineering | Buffalo, NY | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816) |
 | **Johnson & Johnson** | Quality Engineering Co-Op - Fall 2026 | Danvers, Massachu... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Quality-Engineering-Co-Op---Fall-2026_R-057076) |
@@ -497,7 +496,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1895 current opportunities from 225 companies**
+**🎯 1894 current opportunities from 225 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
