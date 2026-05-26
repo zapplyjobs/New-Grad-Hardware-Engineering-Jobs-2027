@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1882-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1881-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -195,7 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | Associate Quality Engineer | O Fallon, MO | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---O-Fallon-MO/Associate-Quality-Engineer_JR2026511467-2) |
 | **Broadcom** | Digital Design: SerDes Digital IP Des... | Colorado | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Digital-Design--SerDes-Digital-IP-Design-Engineer_R024196) |
 | **Apple** | SoC Performance Analysis Engineer | Austin | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664332/soc-performance-analysis-engineer) |
-| **Apple** | SoC Performance Analysis Engineer | Austin | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664288/soc-performance-analysis-engineer) |
+| **Apple** | SoC Performance Analysis Engineer | Austin | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664288/soc-performance-analysis-engineer) |
 | **Anduril** | Firmware Engineer | Lexington, Massac... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5145244007?gh_jid=5145244007) |
 | **Bosch Group** | Associate Vehicle Test Specialist | Owatonna, MN | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000127881559) |
 | **Motorola Solutions** | Entry-Level FPGA Design Engineer | Schaumburg, IL | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-FPGA-Design-Engineer_R64928) |
@@ -495,7 +495,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1882 current opportunities from 223 companies**
+**🎯 1881 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
