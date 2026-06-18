@@ -43,7 +43,7 @@ module.exports = {
   defaultCategory: 'hardware_engineer',
 
   // Job filter (single source of truth — used by both index.js and update-readme-only.js)
-  filters: { domains: ['hardware'], locations: ['us'] }
+  filters: { domains: ['hardware'], locations: ['us'] },
   // Active window for current_jobs.json (days) — read by write-current-jobs.js
   activeWindowDays: 14
 };
