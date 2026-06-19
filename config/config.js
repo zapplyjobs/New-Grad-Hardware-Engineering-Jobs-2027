@@ -15,10 +15,10 @@ module.exports = {
 
   // Image configuration
   repoPrefix: 'hej',
-  headingImageAlt: 'Hardware Engineering Jobs 2026 - Illustration of people working on hardware.',
+  headingImageAlt: 'Hardware Engineering Jobs 2027 - Illustration of people working on hardware.',
 
   // Branding text
-  title: 'Hardware Engineering Jobs 2026',
+  title: 'Hardware Engineering Jobs 2027',
   tagline: '',  // No tagline for SEO repos
   jobCountBadgeLabel: 'Hardware Jobs',
 
@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Hardware Engineering Jobs 2026',
+  jobsSectionHeader: 'Fresh Hardware Engineering Jobs 2027',
 
   // Feature flags
   features: {
