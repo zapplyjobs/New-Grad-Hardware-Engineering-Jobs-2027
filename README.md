@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Banner -->
-<img src="images/hej-heading.png" alt="Hardware Engineering Jobs 2027 - Illustration of people working on hardware.">
+<!-- Cover -->
+<img src="images/covers/cover.png" alt="Hardware Engineering Jobs 2027 - Illustration of people working on hardware.">
 
 # Hardware Engineering Jobs 2027
 
