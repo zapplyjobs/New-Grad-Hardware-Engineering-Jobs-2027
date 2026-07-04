@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1967-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1636-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1966-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1635-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-272-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,26 +68,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Vertex Pharmaceuticals** | Product Development Engineering Scien... | Boston, MA | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Product-Development-Engineering-Scientist_REQ-29341) |
-| **Robert Bosch Venture Capital** | Wireless Sensing Research Intern | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) |
-| **Nokia** | Hardware Engineering Co-op | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36271) |
-| **Nokia** | Silicon Photonics Packaging Engineer ... | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36997) |
-| **Nokia** | AI R&D Engineering Co-op | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36946) |
-| **Tesla** | Service Engineering Intern - Product ... | Palo Alto, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/271630) |
-| **Tesla** | Failure Analysis Engineer Intern - Fa... | Palo Alto, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/271544) |
-| **Tesla** | Solar Hardware Engineer Intern - Sola... | Palo Alto, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/271539) |
-| **Meta** | Research Scientist Intern, Advanced M... | Redmond, WA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/profile/job_details/25514049594874160) |
+| **Vertex Pharmaceuticals** | Product Development Engineering Scien... | Boston, MA | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Product-Development-Engineering-Scientist_REQ-29341) |
+| **Nokia** | AI R&D Engineer Co-op | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36922) |
+| **Nokia** | AI R&D Engineer Co-op | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36914) |
+| **Nokia** | AI R&D Engineer Co-op | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36917) |
+| **Tesla** | Radio Frequency Engineer Intern - Rad... | Palo Alto, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/273819) |
+| **Tesla** | Data Capture Engineering Intern - Dat... | Palo Alto, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/273927) |
+| **Tesla** | Product Management Intern - Product E... | Fremont, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/274754) |
 | **Cirrus Logic** | Co-op - Design Verification Engineer | Austin, TX | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) |
-| **Dover** | Engineering Technician | Sharonville, OH | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.dovercorporation.com/job/West-Chester-Engineering-Technician-OH-45069/1388545833/?ats=successfactors) |
-| **Cirrus Logic** | Engineering Technician - Lab | Austin, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/74bcfa31-ecdb-4f82-8f8a-f6025cfd4852/apply) |
-| **L3Harris Technologies** | Engineering Technician B | Salt Lake City, UT | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1399079100/?ats=successfactors) |
-| **Varian** | Field Service Engineer | Gulfport, MS | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/GPT-S/Field-Service-Technician---HW---Gulfport--MS_R-27038-1) |
-| **Emerson Electric** | Application Engineer 1 | Houston, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819) |
+| **Robert Bosch Venture Capital** | Wireless Sensing Research Intern | Sunnyvale, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) |
+| **Meta** | Research Scientist Intern, Advanced M... | Redmond, WA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/profile/job_details/25514049594874160) |
 | **Qualcomm** | Engineering Technician - Engineering ... | Boxborough, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://qualcomm.eightfold.ai/careers/job/446707211359) |
 | **L3Harris Technologies** | Engineering Technician B - Electro-Me... | Philadelphia, PA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.l3harris.com/job/Camden-Engineering-Technician-B-(Electro-Mechanical)-NJ-08103/1402444100/?ats=successfactors) |
 | **Peraton** | Data Processing Systems Software Oper... | Arcadia, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-peraton.icims.com/jobs/163980/job?mobile=true&needsRedirect=false) |
-| **ByteDance** | Graduate Design Verification Engineer... | San Jose, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.bytedance.com/en/position/7551554573577750802/detail) |
 | **Cirrus Logic** | Applications Engineer Rotation Program | Austin, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/badf4f30-b4ba-41d8-96e2-b250057c6542/apply) |
+| **Dover** | Engineering Technician | Sharonville, OH | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.dovercorporation.com/job/West-Chester-Engineering-Technician-OH-45069/1388545833/?ats=successfactors) |
+| **Cirrus Logic** | Engineering Technician - Lab | Austin, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/74bcfa31-ecdb-4f82-8f8a-f6025cfd4852/apply) |
+| **L3Harris Technologies** | Engineering Technician B | Salt Lake City, UT | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1399079100/?ats=successfactors) |
+| **Emerson Electric** | Application Engineer 1 | Houston, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819) |
+| **ByteDance** | Graduate Design Verification Engineer... | San Jose, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.bytedance.com/en/position/7551554573577750802/detail) |
 | **Takeda** | FTP BU Sponsorship and Congress Proce... | MA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Virtual/FTP-BU-Sponsorship-and-Congress-Process-and-Logistics-Coordinator_R0182675) |
 | **RTX** | Paint and Plating Engineer II | Andover, MA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Paint-and-Plating-Engineer-II_01856663) |
 | **RTX** | Hardware Digital CCA Designer | El Segundo, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Hardware-Digital-CCA-Designer_01856985) |
@@ -128,7 +127,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carrier Global** | Associate Electrical Engineer | CAI19: UTEC-Hunti... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Associate-Electrical-Engineer_30209589) |
 | **Carrier Global** | Mechanical Engineer | CAI19: UTEC-Hunti... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Mechanical-Engineer_30209694) |
 | **CACI** | Electronics Technician | Fayetteville, NC, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fayetteville-NC-US/Electronics-Technician_328524) |
-| **Broadcom** | R&D Engineer IC Design 4 | CA San Jose Innov... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design-4_R024801) |
+| **Broadcom** | R&D Engineer IC Design 4 | CA San Jose Innov... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design-4_R024801) |
 | **Microchip Technology** | FAE - Field Applications Engineer (Re... | Colorado Springs, CO | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/FAE---Field-Applications-Engineer--Reference-Design-Engineer-_R2028-26) |
 | **Microchip Technology** | Manager- Equipment Engineering | Colorado Springs, CO | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Manager--Equipment-Engineering_R2968-26) |
 | **Marvell** | Co-Packaged Optics Packaging Process ... | Santa Clara, CA | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Co-Packaged-Optics-Packaging-Process-Development-Engineer_2602769) |
@@ -168,6 +167,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HNTB** | Aviation Field Engineer | Dallas, TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Dallas-TX/Aviation-Field-Engineer_R-30656) |
 | **HNTB** | Aviation Field Engineer II | Dallas, TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Dallas-TX/Aviation-Field-Engineer-II_R-30657) |
 | **HNTB** | Tunnel Engineer II | New York, NY | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/New-York-NY/Tunnel-Engineer-II_R-30607) |
+| **Amentum** | Aircraft Maint Supv | Corpus Christi, TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Corpus-Christi/Aircraft-Maint-Supv_R0160891) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -204,7 +204,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | FPGA Electronic Warfare Engineer | Aberdeen Proving ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/FPGA-Electronic-Warfare-Engineer_R0243683-1) |
 | **Regal Rexnord** | Cell Associate | Marengo, Illinois... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Marengo-Illinois-United-States/Cell-Associate_R26_03347) |
 | **Bosch Group** | Associate Equipment Engineer | Roseville, CA | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135786859) |
-| **Bosch Group** | Associate Process Engineer | Roseville, CA | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135766249) |
+| **Bosch Group** | Associate Process Engineer | Roseville, CA | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000135766249) |
 | **Latitude AI** | Bench Technician Associate - Pittsbur... | Pittsburgh, PA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/8045276) |
 | **Apptronik** | Firmware Engineer - Actuation | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/6107174004?gh_jid=6107174004) |
 | **Apptronik** | Firmware Engineer – Hands | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/6107171004?gh_jid=6107171004) |
@@ -506,7 +506,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1967 current opportunities from 272 companies**
+**🎯 1966 current opportunities from 272 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
