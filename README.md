@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
-| **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
-| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
-| **Google** | Mechanical Product Design Engineer III | United States | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101521191075750598) |
-| **Google** | Application Engineer | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129195335032414918) |
-| **Google** | Research Engineer, Robotics Applicati... | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121507788101690054) |
+| **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | 26m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
+| **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | 26m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
+| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 26m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
+| **Google** | Mechanical Product Design Engineer III | United States | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101521191075750598) |
+| **Google** | Application Engineer | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129195335032414918) |
+| **Google** | Research Engineer, Robotics Applicati... | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121507788101690054) |
 | **Apple** | Hardware Systems Design Electrical En... | Cupertino | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672066/hardware-systems-design-electrical-engineer-iphone) |
 | **Schweitzer Engineering Laboratories** | Process Engineering Technician I (wee... | Lewiston | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Process-Engineering-Technician-I--weekends-_2026-21917) |
 | **Schweitzer Engineering Laboratories** | Design for Test (DFT) Engineer | Boise | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Lead-Test-Engineer_2026-20407) |
@@ -177,11 +177,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
-| **Google** | Firmware Engineer III | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78691946322633414) |
-| **Google** | RTL Design Engineer, Machine Learning... | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
-| **Google** | TPU SoC Design Engineer, Cloud | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114709059956810438) |
-| **GDIT** | UiPath Robotic Process Automation Dev... | USA LA Home | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1) |
+| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 26m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
+| **Google** | Firmware Engineer III | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78691946322633414) |
+| **Google** | RTL Design Engineer, Machine Learning... | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
+| **Google** | TPU SoC Design Engineer, Cloud | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114709059956810438) |
+| **GDIT** | UiPath Robotic Process Automation Dev... | USA LA Home | 58m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1) |
 | **Schweitzer Engineering Laboratories** | Firmware Engineering Manager | Pullman | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineering-Manager_2026-20223) |
 | **Schweitzer Engineering Laboratories** | Associate Process Engineer | Moscow | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Associate-Process-Engineer_2026-20616) |
 | **Schweitzer Engineering Laboratories** | Firmware Engineer - Linux/C++ | Boise | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer---Linux-C--_2026-19758) |
@@ -304,9 +304,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Silicon Validation Engineer, Google C... | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
-| **Google** | Hardware Validation Engineer, Cloud P... | United States | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) |
-| **Google** | Data Center Manufacturing Test Engineer | United States | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130350586745758406) |
+| **Google** | Silicon Validation Engineer, Google C... | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
+| **Google** | Hardware Validation Engineer, Cloud P... | United States | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113881960924750534) |
+| **Google** | Data Center Manufacturing Test Engineer | United States | 29m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130350586745758406) |
 | **Schweitzer Engineering Laboratories** | Power Engineer | Washington Pullma... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer_2026-21885-1) |
 | **Schweitzer Engineering Laboratories** | Power Engineer Intern | King of Prussia | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156) |
 | **Schweitzer Engineering Laboratories** | Electrical Test Engineering Technician | Lewiston | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineering-Technician_2026-20609) |
