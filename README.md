@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2486-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2092-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2493-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2098-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-311-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Eurofins** | Laboratory Operations Engineer | Spring House, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138409870) |
+| **Anduril** | Aviation Maintenance Engineer | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178802007?gh_jid=5178802007) |
+| **Smiths Group** | Mechanical Engineering Co-Op | Morton Grove, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138408779) |
+| **Zipline** | Structural Engineer | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7808150003) |
+| **AMD** | Product Planning Engineer– DSP / RF | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87951/login) |
+| **SpaceX** | Electrical Hardware Engineer, AI Sate... | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639247002?gh_jid=8639247002) |
 | **Aurora Innovation** | Lidar Technical Program Manager | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8624950002?gh_jid=8624950002) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
@@ -85,7 +91,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Finder and Files Application Engineer... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200643671/finder-and-files-application-engineer-system-experience) |
 | **VAST** | Manufacturing Engineer, Mechanical Su... | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4697421006?gh_jid=4697421006) |
 | **Relativity Space** | Robotics Engineer II | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8638781002?gh_jid=8638781002) |
-| **Anduril** | Technical Operations Engineer | Waltham, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5189900007?gh_jid=5189900007) |
 | **Apple** | Hardware System Integration Electrica... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672821/hardware-system-integration-electrical-engineer-mac) |
 | **AMD** | CPU Core High Performance Physical De... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/78926/login) |
 | **Microsoft** | Critical Environment Electrical Engineer | Phoenix, Arizona,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556928891) |
@@ -114,6 +119,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Controls Engineer, Deployment, Data C... | Fairless Hills, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477730/controls-engineer-deployment-data-center-capacity-delivery) |
+| **Amazon.com Services LLC** | Systems Development Engineer, Edge AI... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477917/systems-development-engineer-edge-ai-platform-infrastructure-hardware-compute-group) |
 | **Amazon Data Services, Inc.** | Manufacturing System  Development Eng... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477150/manufacturing-system-development-engineer-cloud-ai-ml-storage-server-teams) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Amazon.com LLC - A03** | Power & Hardware Design Engineer, One... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
@@ -123,7 +129,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Manager Mechanical Engineering Instru... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138203650) |
 | **Zipline** | Mechanical Design Engineer - Droid SMI | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7807617003) |
 | **Rainmaker** | Mechanical Engineering Intern (Fall: ... | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/53b8e9ab-09b3-43db-aa07-354643a6cc58/apply) |
-| **AMD** | Optical Interconnect System Integrati... | Santa Clara, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86926/login) |
 | **Match Group** | Operations Engineer - Data Center (Sy... | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/f5172470-df74-4291-94b1-8da411c0ec66/apply) |
 | **Western Digital** | Technician 4, Manufacturing Equipment... | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138199849) |
 | **Vertex Pharmaceuticals** | Director, San Diego Technology | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Director--San-Diego-Technology_REQ-29610) |
@@ -161,11 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Strategic Assessment Analyst (AI & Da... | Camp H.M. Smith, HI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-HI-Camp-HM-Smith/Strategic-Assessment-Analyst--AI---Data-Systems-_R0166204) |
 | **Boeing** | Mission Operations Engineer (Mid Leve... | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Operations-Engineer--Mid-Level----Millennium-Space-Systems_JR2026519319) |
 | **Boeing** | Mid-Level Structural Analysis Enginee... | North Charleston, SC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Structural-Analysis-Engineer---Interiors-Stress_JR2026514224-1) |
-| **HP Inc** | Tooling Repair and Maintenance Techni... | Corvallis, Oregon... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Tooling-Repair-and-Maintenance-Technician_3163870-1) |
-| **HNTB** | CEI Field Engineer | Kissimmee, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kissimmee-FL-Celebration-Blvd/CEI-Field-Engineer_R-30794) |
-| **HNTB** | Geotechnical Section Manager | Parsippany, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Parsippany-NJ-Fairfield/Geotechnical-Section-Manager_R-30675) |
-| **HNTB** | Transportation Planning Engineer III | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Transportation-Planning-Engineer-III_R-30780) |
-| **Radiance Technologies** | Targeting Trainer | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Colorado-Springs-CO/Targeting-Trainer_HR102283) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -319,6 +319,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Power Electronics Engineer, AI Satell... | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639268002?gh_jid=8639268002) |
 | **Google** | Hardware Performance Test Engineer, E... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134075106149180102) |
 | **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
 | **Google** | Platforms Test Engineer, Platforms In... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116587408069141190) |
@@ -347,7 +348,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Integration and Test Engineer - Mid-L... | San Antonio, TX, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/San-Antonio-TX-US/Embedded-Systems-Engineer_325151-1) |
 | **Amazon Data Services, Inc.** | Electrical Design Engineer, Data Cent... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475912/electrical-design-engineer-data-center-design-engineering) |
 | **SpaceX** | Mechanical Integration and Test Engin... | Woodinville, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8628799002?gh_jid=8628799002) |
-| **SpaceX** | Integration & Test Engineer (Starlink... | Woodinville, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8629248002?gh_jid=8629248002) |
 | **AbbVie** | Validation Engineer II | Branchburg, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014090096) |
 | **Apple** | DDR Mixed-Signal Circuit Design Engineer | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672297/ddr-mixed-signal-circuit-design-engineer) |
 | **AeroVironment** | RF PCBA Design and Test Engineer | Albuquerque, NM | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Lead-Engineer---RF-Engineering_7964) |
@@ -553,7 +553,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2486 current opportunities from 311 companies**
+**🎯 2493 current opportunities from 311 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
