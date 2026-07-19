@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2432-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2060-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-312-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2441-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2068-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-313-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
+| **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
+| **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
 | **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
 | **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
 | **Google** | Silicon Hardware Emulation Engineer, ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120372516576207558) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Superblock Electrical Engineer | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014132176) |
 | **CoreWeave** | Data Center Technician - Elk Grove, IL | Elk Grove, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4697425006&board=coreweave&gh_jid=4697425006) |
 | **LG Electronics** | Sr Field Technical Specialist | California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5356505008) |
-| **Pinterest** | Product Design Manager II, Ad Formats | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7684636) |
-| **Sigma Computing** | Customer Deployment Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7806577003) |
-| **Verkada** | AV Engineer - East Coast (NYC) | New York City, NY... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5188708007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Firmware Engineer III | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78691946322633414) |
 | **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
@@ -544,7 +545,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2432 current opportunities from 312 companies**
+**🎯 2441 current opportunities from 313 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
