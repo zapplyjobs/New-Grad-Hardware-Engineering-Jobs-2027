@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2436-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2064-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-313-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2414-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2043-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-312-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -129,7 +129,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477969/commissioning-engineer-aws-data-center-commissioning) |
-| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477970/commissioning-engineer-aws-data-center-commissioning) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477968/commissioning-engineer-aws-data-center-commissioning) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Edge AI... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477917/systems-development-engineer-edge-ai-platform-infrastructure-hardware-compute-group) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Amazon.com LLC - A03** | Power & Hardware Design Engineer, One... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
@@ -389,7 +389,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KLA** | Electrical Design Engineer | Milpitas, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineeer_2637978) |
 | **Texas Instruments** | Early Career - AI for Analog Design E... | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011659) |
 | **Vertiv** | Manager, Electrical Design Engineering | Anderson, SC, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267614) |
-| **Annapurna Labs (U.S.) Inc.** | Power Validation Engineer, Annapurna ... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10466426/power-validation-engineer-annapurna-labs-machine-learning-hardware) |
 | **Eight Sleep** | Prototype & Test Engineering Intern, ... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) |
 | **Sandisk** | Adversarial Security Test Engineer | Milpitas, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000133424524) |
 | **Northrop Grumman** | Antenna Test Engineer-4th Shift/Weekends | Maryland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Antenna-Test-Engineer-4th-Shift-Weekends_R10236852-1) |
@@ -544,7 +543,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2436 current opportunities from 313 companies**
+**🎯 2414 current opportunities from 312 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -552,6 +551,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 19, 2026
+**Last Updated**: July 20, 2026
 
 </div>
