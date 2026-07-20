@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2486-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2088-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2489-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2090-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-311-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -76,6 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Physical Design Engineer, Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110858940677268166) |
 | **Google** | Silicon Physical Design Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116110842792944326) |
 | **Google** | Silicon Product and Failure Analysis ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141749294657872582) |
+| **Citizens Financial Group** | Process Automation Sr Dveloper | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48181) |
 | **SpaceX** | Supervisor, Heatshield Materials Mana... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639279002?gh_jid=8639279002) |
 | **SpaceX** | Supervisor, Starship Heatshield - Nig... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8636229002?gh_jid=8636229002) |
 | **Oklo** | Piping Designer / Drafter - Fuel Recy... | Santa Clara, CA o... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/6115189004) |
@@ -135,7 +136,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477969/commissioning-engineer-aws-data-center-commissioning) |
-| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477970/commissioning-engineer-aws-data-center-commissioning) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477968/commissioning-engineer-aws-data-center-commissioning) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Edge AI... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477917/systems-development-engineer-edge-ai-platform-infrastructure-hardware-compute-group) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Amazon.com LLC - A03** | Power & Hardware Design Engineer, One... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MatX** | Rust Engineer | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5362031008) |
 | **xAI** | Electrical Reliability Engineer (Data... | Memphis, TN; Sout... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5189148007) |
 | **Captivation** | Systems Engineer 2 | Augusta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5361930008) |
-| **CoreWeave** | Data Center Technician - Chantilly | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4697714006&board=coreweave&gh_jid=4697714006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -220,6 +220,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MatX** | BMC Firmware Engineer | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5344001008) |
 | **Entrust** | Sr Firmware Engineer | MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Sr-Firmware-Engineer_R004270) |
 | **Carnegie Mellon University** | Research Associate III - Robotics Ins... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate-III---Robotics-Institute_2024839) |
+| **Honeywell** | AssocOprtns Semi-Conductor III (Wafer... | Richardson, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152236) |
 | **WSP** | Associate Mechanical Engineer - Build... | San Diego, CA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91072) |
 | **DRW** | FPGA Developer | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8039110) |
 | **DRW** | FPGA Intern | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
@@ -554,7 +555,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2486 current opportunities from 311 companies**
+**🎯 2489 current opportunities from 311 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
