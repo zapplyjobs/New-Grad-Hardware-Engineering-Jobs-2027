@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2359-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2357-brightgreen?style=flat&logo=briefcase)
 ![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1998-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-310-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
-| **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
-| **Google** | Silicon Hardware Emulation Engineer, ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120372516576207558) |
+| **Google** | CAD/PCB Design Engineer, Pixel Phones | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133262190172873414) |
+| **Google** | Data Center Plant Engineer, Controls | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89921210258727622) |
+| **Google** | Site Reliability Engineering Manager,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128587185916912326) |
 | **Field AI** | Embedded Systems Engineer, Humanoid R... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/ae6ff0ce-0078-4836-aab1-7e44b1be1893/apply) |
 | **Zipline** | Mechanical Engineer, RF Systems | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7808608003) |
 | **Field AI** | Robotics Systems Integration Engineer... | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/f8b38e05-ef2e-40bf-9f53-842c8955a135/apply) |
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
-| **Google** | Firmware Engineer III | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78691946322633414) |
 | **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
+| **Google** | RTL Design Engineer, TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129911022612816582) |
 | **AMD** | FPGA Engineer: Physical AI & Robotics | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88075/login) |
 | **Microsoft** | Firmware Engineer II | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938421) |
 | **Olsson** | Associate Engineer – Substation and P... | Fayetteville, AR;... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5362356008) |
@@ -535,7 +535,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2359 current opportunities from 310 companies**
+**🎯 2357 current opportunities from 310 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
