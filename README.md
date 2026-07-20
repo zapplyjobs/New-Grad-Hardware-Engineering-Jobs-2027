@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2412-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2043-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2445-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2077-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-311-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | CAD/PCB Design Engineer, Pixel Phones | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133262190172873414) |
-| **Google** | Data Center Plant Engineer, Controls | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89921210258727622) |
-| **Google** | Site Reliability Engineering Manager,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128587185916912326) |
+| **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
+| **Google** | Silicon Hardware Emulation Engineer, ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120372516576207558) |
+| **Google** | Silicon Design Verification Engineer,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105552026472981190) |
 | **Field AI** | Embedded Systems Engineer, Humanoid R... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/ae6ff0ce-0078-4836-aab1-7e44b1be1893/apply) |
 | **Zipline** | Mechanical Engineer, RF Systems | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7808608003) |
 | **Field AI** | Robotics Systems Integration Engineer... | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/f8b38e05-ef2e-40bf-9f53-842c8955a135/apply) |
@@ -133,7 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477969/commissioning-engineer-aws-data-center-commissioning) |
-| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477970/commissioning-engineer-aws-data-center-commissioning) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477968/commissioning-engineer-aws-data-center-commissioning) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Edge AI... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477917/systems-development-engineer-edge-ai-platform-infrastructure-hardware-compute-group) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Amazon.com LLC - A03** | Power & Hardware Design Engineer, One... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477865/power-hardware-design-engineer-one-mhs-electrical-and-control-engineering-arch-and-design) |
@@ -285,6 +285,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Technical Program Manager III, Embedd... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86620287809790662) |
 | **Anduril** | Embedded Software Engineer, C++ | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5190195007?gh_jid=5190195007) |
 | **Western Digital** | Engineer Embedded System Engineering | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138185309) |
 | **Parsons** | Embedded Engineer - TS/SCI | VA, Centreville, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Embedded-Engineer---TS-SCI_R175642-1) |
@@ -543,7 +544,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2412 current opportunities from 311 companies**
+**🎯 2445 current opportunities from 311 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
