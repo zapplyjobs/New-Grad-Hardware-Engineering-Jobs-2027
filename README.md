@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2537-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2135-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-310-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2506-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2110-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-309-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -266,8 +266,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Curtiss-Wright** | Manufacturing Engineer, Associate | East Farmingdale, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Manufacturing-Engineer--Associate_JR12752) |
 | **Generac** | Associate Engineer - Fabrication | Waukesha, WI - USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Associate-Engineer---Fabrication_JR15240) |
 | **Aerospace Corporation** | Vehicle and Ground Concepts Departmen... | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Vehicle-and-Ground-Concepts-Department--Associate-Director_R015299) |
-| **Texas Instruments** | Career Accelerator Program - Digital ... | Tucson, AZ, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638) |
-| **Vertiv** | Associate Application Engineer | Anderson, SC, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273754) |
 | **Astranis** | Radiation Effects Associate Engineer ... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4694883006) |
 | **Eversource Energy** | Associate Energy Engineer CT (Hybrid ... | Berlin, CT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Associate-Energy-Engineer-CT--Hybrid-Schedule-_R-030467) |
 | **Eversource Energy** | Associate Engineer, Substation Engine... | Manchester, NH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/Associate-Engineer--Substation-Engineering_R-030131-1) |
@@ -277,6 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astranis** | Reliability Design Associate (Fall 2026) | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681416006) |
 | **Generac** | Intern Firmware Engineering | Reno, NV - USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) |
 | **Ambarella** | ASIC Design Engineer Intern | Headquarters | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) |
+| **Globus Medical** | ASSOCIATE PRODUCT MANAGER | Audubon, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/ASSOCIATE-PRODUCT-MANAGER_JR106707) |
+| **Base Power** | Firmware Engineering Intern | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -394,8 +394,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Snap** | Integrated Circuit Design Verificatio... | Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Remote---Washington/Integrated-Circuit-Design-Verification-Engineer_R0046055) |
 | **Snap** | Integrated Circuit Design Verificatio... | Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Remote---Washington/Integrated-Circuit-Design-Verification-Engineer_R0046054-1) |
 | **KLA** | Electrical Design Engineer | Milpitas, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineeer_2637978) |
-| **Texas Instruments** | Early Career - AI for Analog Design E... | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011659) |
-| **Vertiv** | Manager, Electrical Design Engineering | Anderson, SC, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267614) |
 | **Eight Sleep** | Prototype & Test Engineering Intern, ... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) |
 | **Northrop Grumman** | Antenna Test Engineer-4th Shift/Weekends | Maryland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Antenna-Test-Engineer-4th-Shift-Weekends_R10236852-1) |
 | **Ambarella** | Mixed Signal Engineer Intern | Headquarters | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) |
@@ -486,8 +484,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Teledyne** | Quality Engineer | Rancho Cordova, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Quality-Engineer_REQ35314) |
 | **FLIR Systems** | Quality Engineer | Rancho Cordova, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Quality-Engineer_REQ35314) |
 | **Crane Co.** | Supplier Quality Engineer II/III | Lynnwood, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Lynnwood-Washington/Supplier-Quality-Engineer-III_JR101965) |
-| **Fortive** | Quality Engineer | Everett, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9979) |
-| **Hologic** | Quality Engineer 2 | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11923) |
 | **Johnson & Johnson** | Supplier Quality Engineer II | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Supplier-Quality-Engineer-II_R-086504) |
 | **Intuitive** | Supplier Quality Engineer | Peachtree Corners... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000135103269) |
 | **VAST** | 2026 Fall Internship - Supplier Quali... | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
@@ -554,7 +550,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2537 current opportunities from 310 companies**
+**🎯 2506 current opportunities from 309 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -562,6 +558,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 20, 2026
+**Last Updated**: July 21, 2026
 
 </div>
