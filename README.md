@@ -66,6 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Intuitive** | Manager, Mechanical Engineering, Inst... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138883139) |
+| **Intuitive** | Cold Chain Pharmacy Distribution Engi... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138880571) |
+| **ALTEN Technology** | CAE Durability Engineer | Raymond, Ohio, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192037007) |
 | **Scout Motors** | Specialist, Diagnostic and Commission... | Blythewood, South... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189634007) |
 | **Jane Street** | Windows Engineer | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8628843002) |
 | **Smiths Group** | Customer Reliability Engineer (Entry ... | Pasadena, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138865971) |
@@ -92,8 +95,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northwood Space** | Mechanical Engineer (Product Owner) | Torrance, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d5833d9-6d3e-4e49-8264-f0322b66f684/application) |
 | **Gimlet Labs** | Data Center Technician | Oklahoma City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gimlet/3e43d9c8-7e22-47a5-98c4-6e384e2e4ed8/application) |
 | **Zipline** | Maintenance Operations Engineering Te... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810260003) |
-| **Rocket Lab** | GNC Engineer II | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7807319003) |
 | **Rocket Lab** | GNC Engineer II | Littleton, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7810232003) |
+| **Rocket Lab** | GNC Engineer II | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7807319003) |
 | **Microsoft** | Mechanical Engineer - CTJ - Poly | San Antonio, Texa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556914777) |
 | **Zipline** | Simulation Engineer - Avionics | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810252003) |
 | **Zipline** | Manager, Aerodynamics | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810042003) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Western Digital** | Technologist Mechanical Engineering | Longmont, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138365640) |
 | **WHOOP** | Electrical Engineer II | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/a892b3e2-944f-4a41-a6aa-662de62be02e/apply) |
 | **NBCUniversal** | Graphic Designer - NBC Sports, Bay Area | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138330540) |
-| **Bosch Group** | System Design Engineer | Owatonna, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138330149) |
-| **Bosch Group** | Mechanical Product Engineer | Owatonna, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138326820) |
-| **CACI** | Cyber Data Analysis Engineer | Springfield, VA, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Springfield-VA-US/Cyber-Data-Analytics-Engineer_322946) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
