@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2483-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2099-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2488-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2104-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-307-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -97,6 +97,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, Pyxis ADC | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481524/systems-development-engineer-pyxis-adc) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, ADC2S -... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481527/systems-development-engineer-adc2s-usaco) |
 | **Emerson Electric** | Controls Engineer - New Generation Pr... | Pittsburgh, PA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008283) |
+| **Hologic** | Field Service Engineer - Salt Lake Ci... | Salt Lake City, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11992) |
+| **Hologic** | Field Service Engineer - Los Angeles CA | Los Angeles, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12058) |
 | **Honeywell** | Building Automation Project Manager | Charlotte, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153572) |
 | **Oracle** | Data Center Technician | West Jordan, UT, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340580) |
 | **Texas Instruments** | Career Accelerator Program - Product ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016672) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lila Sciences** | Controls Engineer II, Sustaining Engi... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4294210009) |
 | **Western Digital** | Configuration Specialist Engineer | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138714070) |
 | **Airbnb** | Operations Engineer, BizTech | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8074955?gh_jid=8074955) |
-| **Relativity Space** | Weld Engineer II | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8637631002?gh_jid=8637631002) |
-| **Eurofins** | Laboratory Analyst - PLM  (TU - SA, 1... | Arvada, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138696509) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -553,7 +553,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2483 current opportunities from 307 companies**
+**🎯 2488 current opportunities from 307 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
