@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2511-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2104-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2508-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2101-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-303-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -317,10 +317,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Electrical Test Engineer (Starshield) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8643997002?gh_jid=8643997002) |
 | **Google** | Hardware Performance Test Engineer, E... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134075106149180102) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
 | **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
+| **SpaceX** | Electrical Test Engineer (Starshield) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8643997002?gh_jid=8643997002) |
 | **AMD** | SERVER, DDR MEMORY TRAINING VALIDATIO... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88805/login) |
 | **Microsoft** | System Product Test Engineer | Hillsboro, Oregon... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556933528) |
 | **Apple** | Silicon Validation Engineer | Waltham | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673405/silicon-validation-engineer) |
@@ -557,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2511 current opportunities from 303 companies**
+**🎯 2508 current opportunities from 303 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
