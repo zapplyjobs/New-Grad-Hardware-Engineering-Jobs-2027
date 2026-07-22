@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2543-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2136-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-309-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2545-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2139-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-310-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Engineering Technician (Scientist) | Tempe, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014238251) |
+| **Gusto** | Head of Design, Unified Service Platform | Denver, CO;San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/8020155) |
 | **Fireworks AI** | AI Field Engineer - Enterprise | Remote, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/fireworksai/jobs/4329153009) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
@@ -112,6 +114,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Axon** | Site Reliability Engineer II | Washington, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7612104003) |
 | **Supabase** | Product Designer | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/supabase/97fe8e68-28c5-42db-a763-60113f0b31fd/application) |
 | **True Anomaly** | Avionics and Electrical Engineering F... | Denver, CO  Long... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007) |
+| **Whatnot** | Product Designer, Payments | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/0d03cfd0-e46a-4143-a2a3-9fef81d9c8e8) |
+| **Whatnot** | Product Designer, Trust & Risk | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/878129db-339a-46db-8b99-6b6f05ed75f1) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, ADC2S | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481532/systems-development-engineer-adc2s) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, Pyxis ADC | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481524/systems-development-engineer-pyxis-adc) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, ADC2S -... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481527/systems-development-engineer-adc2s-usaco) |
@@ -162,10 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Scout Motors** | Specialist, Diagnostic and Commission... | Blythewood, South... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189634007) |
 | **Jane Street** | Windows Engineer | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8628843002) |
 | **Smiths Group** | Customer Reliability Engineer (Entry ... | Pasadena, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138865971) |
-| **Verkada** | Fulfillment Specialist, Tampa | Tampa, FL United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5191759007) |
-| **Northwood Space** | DSP Engineer | Torrance, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application) |
-| **Stability AI** | Product Design Engineer - Audio | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://stability.ai/careers?gh_jid=4932950101) |
-| **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data C... | Berwick, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480126/data-center-controls-engineer-data-center-capacity-delivery) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -388,7 +388,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Monolithic Power Systems** | Power Validation Engineer | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Power-Validation-Engineer_R-1704) |
 | **Harbinger Motors** | Power Electronics Technician (Contrac... | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5183091007) |
 | **Nokia** | Photonic Circuit Test Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176) |
-| **True Anomaly** | Mechanical Test Engineer | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182937007) |
 | **Intuitive** | Hardware Test Engineer 2 | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000136496774) |
 | **Insulet Corporation** | NPI and Validation Engineer | Acton, Massachusetts | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/NPI-and-Validation-Engineer_REQ-2026-16682) |
 | **General Motors** | Autonomous Vehicle Test Engineer | Sunnyvale, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Autonomous-Vehicle-Test-Engineer_JR-202613603) |
@@ -561,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2543 current opportunities from 309 companies**
+**🎯 2545 current opportunities from 310 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
