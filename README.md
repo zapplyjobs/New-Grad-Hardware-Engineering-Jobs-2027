@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2015-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1678-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2022-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1685-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-286-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -103,13 +103,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Neuralink** | Lab Manager | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7813383003?gh_jid=7813383003) |
 | **Amazon Data Services, Inc.** | Electrical Engineer, Data Center, Col... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482351/electrical-engineer-data-center-colocation-regional-engineering-amer) |
 | **Amazon Data Services, Inc.** | Product Lifecycle Mechanical Engineer... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482252/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482908/commissioning-engineer) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer III, Bes... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482743/systems-development-engineer-iii-bespoke-solutions) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer II, Besp... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482739/systems-development-engineer-ii-bespoke-solutions) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Hardware Engineer, Customer Terminals... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482758/hardware-engineer-customer-terminals-hardware-design) |
 | **Amazon Development Center U.S., Inc.** | Electrical Hardware Development Engin... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482735/electrical-hardware-development-engineer-bespoke-solutions) |
-| **Amazon Data Services, Inc.** | Hardware Development Engineer, AI/ML ... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development) |
 | **Atlantic Health System** | Radiology Service Engineer II, Full T... | Summit, NJ, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31063) |
 | **Dell Technologies** | Field Service Engineer 2 - Ellendale, ND | ND, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294475) |
+| **Dell Technologies** | Hardware (Thermal) Engineer 2 | TX, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295416) |
 | **Nokia** | Signal Integrity Design Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37903) |
 | **onsemi** | Field Applications Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505864) |
 | **Oracle** | Manager, Site Reliability Engineering | Reston, VA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340413) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hologic** | Field Service Engineer - Los Angeles CA | Los Angeles, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12058) |
 | **Honeywell** | Regional Business Development Manager... | FL, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148401) |
 | **Honeywell** | QCS Field Service Engr I - Resident -... | Pensacola, FL, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153104) |
-| **Honeywell** | Building Automation Project Manager | Charlotte, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153572) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -519,7 +519,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2015 current opportunities from 286 companies**
+**🎯 2022 current opportunities from 286 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
