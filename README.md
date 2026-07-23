@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2007-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1671-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2015-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1678-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-286-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,16 +66,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Aurora Innovation** | Cadence PCB Librarian | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8647890002?gh_jid=8647890002) |
-| **Lila Sciences** | Sr Controls Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4311159009) |
-| **SpaceX** | Structures Design Engineer (Starship) | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8493176002?gh_jid=8493176002) |
-| **AMD** | Product Quality & Reliability Engineer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88810/login) |
+| **Scout Motors** | Engineer, Interior / Electrical Acces... | Novi, Michigan, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5189054007) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
-| **Google** | Design Verification Engineer, TPU Clo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131330438437184198) |
-| **Google** | DFT Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77115079144678086) |
-| **Google** | Site Reliability Engineering Manager,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128587185916912326) |
+| **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
+| **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
+| **Google** | Co-Design Engineer, Google Cloud TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100211878885499590) |
+| **Aurora Innovation** | Cadence PCB Librarian | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8647890002?gh_jid=8647890002) |
+| **Apple** | Manager, Hardware Systems Design (EE)... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673848/manager-hardware-systems-design-ee-iphone) |
+| **Lila Sciences** | Sr Controls Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4311159009) |
+| **SpaceX** | Structures Design Engineer (Starship) | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8493176002?gh_jid=8493176002) |
+| **AMD** | Product Quality & Reliability Engineer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88810/login) |
+| **Apple** | Service Reliability Engineer (SRE) | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673911/service-reliability-engineer-sre) |
 | **Pure Storage** | PCIe Hardware Engineer, Systems | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7985259) |
 | **Anduril** | Supplier Development Engineer, Electr... | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194848007?gh_jid=5194848007) |
 | **Anduril** | External Process Engineer, Electronics | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194896007?gh_jid=5194896007) |
@@ -116,17 +119,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Coordinator III, Sales and Business D... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91635) |
 | **WSP** | Environmental Engineer | Columbia, MD, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91692) |
 | **Hunt Oil Company** | HSRC Process Engineer II | Heidelberg, MS, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1020) |
+| **Stantec** | Geotechnical Engineer EIT | Denver, CO, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005092) |
 | **Stantec** | Instrumentation & Controls / Industri... | Phoenix, AZ, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006889) |
 | **Stantec** | Mechanical Designer | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006880) |
-| **Stantec** | Junior Transportation Engineer | Colorado Springs,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006907) |
 | **Backblaze** | Data Center Operations Manager | Chandler, Arizona... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/backblaze/jobs/5363517008) |
 | **AbbVie** | Engineering Technician (Scientist) | Tempe, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014238251) |
 | **Gusto** | Head of Design, Unified Service Platform | Denver, CO;San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/8020155) |
 | **SpaceX** | Aviation Development Engineer (Starlink) | Woodinville, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8646256002?gh_jid=8646256002) |
 | **Apple** | Manufacturing Design Engineer (MDE) -... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673159/manufacturing-design-engineer-mde-product-displays) |
 | **Radiant Industries** | Nuclear Engineer, Core Physics | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/96d81794-765f-4d35-9370-2f1bba4a4241/application) |
-| **Apple** | OLED Device Engineer | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673600/oled-device-engineer) |
-| **Apple** | Hardware Reliability Engineer - Mac S... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673576/hardware-reliability-engineer-mac-system-reliability) |
 | **Redwood Materials** | Systems Engineer, Energy Storage | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6007517004?gh_jid=6007517004) |
 | **Neuralink** | Electrical Engineer, Robotics | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003) |
 | **Zipline** | Electrical Engineer, Towers | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7813008003) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Regional Business Development Manager... | FL, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148401) |
 | **Honeywell** | QCS Field Service Engr I - Resident -... | Pensacola, FL, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153104) |
 | **Honeywell** | Building Automation Project Manager | Charlotte, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153572) |
-| **JPMorgan Chase** | Compliance and Ops Risk Test Speciali... | San Antonio, TX, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210758237) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -178,10 +178,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
+| **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
+| **Google** | Embedded Firmware Engineering Manager... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114115697339966150) |
+| **Google** | Modem Power Firmware Engineer, Pixel | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
 | **Appian** | Associate Application Engineer (2027 ... | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8035372) |
-| **Google** | TPU RTL Design Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143699638233244358) |
-| **Google** | ASIC Design Verification Engineer, TPU | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106267759855182534) |
-| **Google** | ASIC Formal Verification Engineer, Go... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133721869785146054) |
 | **AMD** | SERDES Firmware Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88608/login) |
 | **Latitude AI** | Bench Technician Associate - Pittsbur... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/8081373) |
 | **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
@@ -304,10 +304,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **AMD** | Platform / System Debug Validation En... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88618/login) |
-| **Google** | System Validation Engineer, Pixel | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124136858916397766) |
-| **Google** | EMC Test Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
+| **Google** | Silicon Validation Engineer, Google C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87066834049606342) |
+| **Google** | Network Test Engineer, NetInfra Fabri... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111398726798320326) |
+| **AMD** | Platform / System Debug Validation En... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88618/login) |
 | **DoorDash** | Flight Test Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082005) |
 | **SpaceX** | Development Test Engineer, Battery (S... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002) |
 | **Zoox** | Part-Time Student Worker System Test ... | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868/apply) |
@@ -519,7 +519,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2007 current opportunities from 286 companies**
+**🎯 2015 current opportunities from 286 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
