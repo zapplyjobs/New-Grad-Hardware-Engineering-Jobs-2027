@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2512-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2110-informational?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2513-brightgreen?style=flat&logo=briefcase)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-2111-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-311-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Equipment Engineering Manager - Solar... | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8646660002?gh_jid=8646660002) |
 | **ByteDance** | Optical Engineer Intern (PICO) - 2026... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7591996637569763637) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **ByteDance** | Design Verification Engineer Graduate... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7551554573577750802) |
@@ -110,7 +111,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jane Street** | Linux Engineer | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8635672002) |
 | **Zipline** | Hardware Reliability Engineer | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7812147003) |
 | **Zipline** | Maintenance Operations Engineering | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7812182003) |
-| **SpaceX** | Materials Engineer, AI Satellites (St... | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8645074002?gh_jid=8645074002) |
 | **Flagship Pioneering** | Engineer II, Flight Systems | Boulder, CO USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8644905002?gh_jid=8644905002) |
 | **Lucid Motors** | Material Planning Manager - Launch & ... | Phoenix, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5189707007) |
 | **Axon** | Site Reliability Engineer II | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7812676003) |
@@ -557,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2512 current opportunities from 311 companies**
+**🎯 2513 current opportunities from 311 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
