@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | HPC Operations Engineer | CA Santa Clara | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | HPC Operations Engineer | CA Santa Clara | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Crane Co.** | Mechanical Engineer | Elyria, Ohio | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102340?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Boeing** | Mid-Level, Lead or Senior Satellite Systems Ground Systems Engineer | USA - El Segundo, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026513943?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician III | Remote, NV | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017806?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician III | Remote, NV | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017806?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NXP** | Device / Process Integration Engineer | Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066752?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Avionics Test Engineering -Systems Engineer Intern (Onsite) | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876518?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Co-Op - AI DSP Applied Research | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873016?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -350,14 +350,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Power Electronics Engineer, Satellites (Starlink) | Redmond, WA | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8788378002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Power Electronics Engineer, Satellites (Starlink) | Redmond, WA | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8788378002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Systems Test Engineer, IBCS-M | Costa Mesa, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5255079007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **CACI** | Systems Test Engineer | Los Gatos, CA, US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332994?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Muon Space** | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5256286007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8012121003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ALTEN Technology** | EV Charging Validation Engineer | Foster City CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-altentechnologyusa-5256251007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Production Test Engineer II (Onsite) | AZ-TUCSON | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01872264?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Base Power** | Hardware Test Engineer | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-2c2e2c41-e1e5-4d68-ba39-5fd99056435f?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Base Power** | Hardware Test Engineer | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-base-power-2c2e2c41-e1e5-4d68-ba39-5fd99056435f?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Radio Frequency Test Engineer | Irvine, California, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5256046007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Manufacturing Test Engineer, Electronic Warfare | Irvine, California, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5256033007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Thermal Hardware and Test Engineer II | El Segundo, California, United... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8012030003?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -461,7 +461,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Quality Engineer  – Level 2 or Level 3 | United States-Utah-Clearfield | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254262?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Quality Engineer  – Level 2 or Level 3 | United States-Utah-Clearfield | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254262?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Moog** | Supplier Quality Engineer | Torrance, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19030?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Regal Rexnord** | Quality Engineer | Monticello, Indiana, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04170?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Optoelectronic Test Development Engineer | Cupertino | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200685786?s=gh-new-grad-hardware-engineering-jobs-2027) |
