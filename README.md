@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Co-Op - AI DSP Applied Research | IA-CEDAR RAPIDS | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873016?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Co-Op - AI DSP Applied Research | IA-CEDAR RAPIDS | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873016?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NXP** | Device / Process Integration Engineer | Austin | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066752?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **TD Bank** | Experience Designer (Human Centric Design- US) | Mount Laurel, New Jersey | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510550?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Johnson Controls** | Fire Alarm Inspector | Irving-Texas-United States of... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30281197?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Varda Space** | Build Reliability Engineer II | El Segundo, California, United... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8012150003?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Varda Space** | Build Reliability Engineer II | El Segundo, California, United... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8012150003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Shield AI** | Technician II, Test (R6165) | Seattle, Washington | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-64ae4bdf-5c95-4a7b-8716-1cdcd283f73a?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Photonics Test Development Hardware Engineer | Cupertino | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200686929?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Product Operations Engineer, Government Applications Special Programs | Palo Alto, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8864991002?s=gh-new-grad-hardware-engineering-jobs-2027) |
