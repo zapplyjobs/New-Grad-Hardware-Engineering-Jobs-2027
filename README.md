@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Rocket Lab** | Scientist (EO/IR Image Analysis) | Tucson, AZ | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8025012003?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Rocket Lab** | Scientist (EO/IR Image Analysis) | Tucson, AZ | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8025012003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Aerospace Corporation** | 2027 Space Vehicle Concepts Design Engineer | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016437?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Veolia Environnement SA** | Field Service Engineer | Bellevue, WA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154882259?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Veolia Environnement SA** | Field Service Engineer | Bellevue, WA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154882070?s=gh-new-grad-hardware-engineering-jobs-2027) |
