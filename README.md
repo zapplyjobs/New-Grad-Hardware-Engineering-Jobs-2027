@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Component Engineer (Hybrid) | Maynard Massachusetts US | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024606?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Network Operations Engineer I | Denver, CO | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017317?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ABB** | Computer Applications Engineer | USA, OR, Clackamas | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Cisco** | Component Engineer (Hybrid) | Maynard Massachusetts US | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Network Operations Engineer I | Denver, CO | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017317?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ABB** | Computer Applications Engineer | USA, OR, Clackamas | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Antares** | Thermo-Mechanical Engineer II | Los Angeles | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-antares-8a5cefe0-e3c4-4cde-8ebe-df9cc88aaddf?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Shield AI** | Engineer II, Mission Systems (R6241) | Dallas, Texas | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-48133d4b-26e6-4532-a8a3-1984d5edd425?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Shield AI** | Engineer II, Mission Systems (R6241) | Dallas, Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-48133d4b-26e6-4532-a8a3-1984d5edd425?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microchip Technology** | Engineer II- Corporate Applications | AZ - Chandler | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4316-26?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microchip Technology** | Engineer I-Design | PA - Allentown - Winchester Rd | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4315-26?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microchip Technology** | Engineer I - Test | NY - Hauppauge | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4309-26?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -478,7 +478,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Moog** | Supplier Quality Engineer | Torrance, CA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19030?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Moog** | Supplier Quality Engineer | Torrance, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19030?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Wi-Fi Certification Quality Engineer, Wireless Technologies & Ecosystems | Cupertino | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688169?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **General Motors** | Quality Engineer | Wyoming, Michigan, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202616814?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **KLA** | Global Supplier Quality Engineer | Ann Arbor, MI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2639860?s=gh-new-grad-hardware-engineering-jobs-2027) |
