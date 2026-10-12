@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | Mechanical Engineer | Houston, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36127?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Teledyne** | Mechanical Engineer | Houston, TX | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36127?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Avionics Systems Engineer III | Greater Seattle Area | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R65237?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Physicist/Scientist-X-Ray Fluorescence III (E3) | Benicia,CA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2622933?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Bosch Group** | Application Calibration Engineer | Plymouth, MI | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154921329?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Bosch Group** | Robotics Research Intern | Sunnyvale, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154911489?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Vertiv** | Mechanical Design Engineer | Anderson, SC, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20283848?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Vertiv** | Mechanical Design Engineer | Anderson, SC, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20283848?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Terrestrial Automation & Controls Engineer II | El Segundo, California, United... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8025168003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Build Reliability Engineer II | El Segundo, California, United... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8025141003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rocket Lab** | Scientist (EO/IR Image Analysis) | Tucson, AZ | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8025012003?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -366,7 +366,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Vertiv** | Electrical Design Engineer | Anderson, SC, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20283846?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Vertiv** | Electrical Design Engineer | Anderson, SC, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20283846?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Terrestrial Mechanical Design & Test Engineer II, Automation | El Segundo, California, United... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8025170003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NXP** | SRAM/ROM Circuit Design Engineer | Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10065869?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Blue Ring Test Engineer III | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72300?s=gh-new-grad-hardware-engineering-jobs-2027) |
