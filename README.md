@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Hardware Engineer Hybrid | RTP, North Carolina, US | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026303?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Cisco** | Hardware Engineer Hybrid | RTP, North Carolina, US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026303?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Smiths Group** | Controls Engineer | Arden, North Carolina | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SmithsGroup2-744000156096099?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Astreya** | AV Installation Technician I | Remote, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017787?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Astreya** | AV Installation Technician II | Remote, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0017955?s=gh-new-grad-hardware-engineering-jobs-2027) |
