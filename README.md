@@ -357,7 +357,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ALTEN Technology** | Trim Validation Engineer | Foster City, California, United... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-altentechnologyusa-5268072007?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ALTEN Technology** | Trim Validation Engineer | Foster City, California, United... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-altentechnologyusa-5268072007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Test Engineer Level 2/3 (AHT) | United States-California-Northridge | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256311?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ABB** | Power Electronics Scientist | USA, NC, Raleigh | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00046300?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Electrical Test Engineer I - Lunar Permanence | Space Coast, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R71834?s=gh-new-grad-hardware-engineering-jobs-2027) |
