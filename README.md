@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Cisco** | Hardware Engineer Hybrid | RTP, North Carolina, US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026303?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Cisco** | Hardware Engineer Hybrid | RTP, North Carolina, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026303?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ASML** | Electron Optics Designer | San Jose, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00354868?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ASML** | Field Applications Engineer | Hillsboro, OR, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355110?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ASML** | Electrical Engineer | Wilton, CT, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00352666?s=gh-new-grad-hardware-engineering-jobs-2027) |
