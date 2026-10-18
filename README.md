@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | (Skillbridge) – Engineering Technician – Electrical Ground Support Equipment | United States-Arizona-Chandler | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10256530?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Cisco** | Hardware Engineer Hybrid | RTP, North Carolina, US | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026303?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Avionics Cable Harness Design Engineer III - New Glenn | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R70898?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Warner Bros. Discovery** | Broadcast IT Field Engineer | DC Washington 820 1st Street NE | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000093788?s=gh-new-grad-hardware-engineering-jobs-2027) |
