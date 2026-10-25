@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | Manufacturing Automation Engineer – Cobots | Warren, Michigan, United States... | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621240?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **General Motors** | Manufacturing Automation Engineer – Cobots | Warren, Michigan, United States... | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621240?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 21m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **ABB** | Automotive Powertrain - Mechanical Project Engineer | USA, MI, Auburn Hills | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050632?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **QuEra Computing** | Quantum Scientist - Quantum Error Correction Theorist | Boston, MA, USA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5463157008?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **QuEra Computing** | Quantum Scientist - Decoding Theorist | Boston, MA, USA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5463156008?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -358,7 +358,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Arrow Electronics** | Analog Layout Engineer (eInfochips) | TX-Texas | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R249583?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Arrow Electronics** | Analog Layout Engineer (eInfochips) | TX-Texas | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R249583?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer I - TeraWave | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72943?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer II - TeraWave | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72941?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer III - TeraWave | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R72937?s=gh-new-grad-hardware-engineering-jobs-2027) |
