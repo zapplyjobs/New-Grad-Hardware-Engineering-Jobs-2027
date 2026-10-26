@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Systems Reliability Engineer 1 | CA-GOLETA-H01 | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870442?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Systems Reliability Engineer 1 | CA-GOLETA-H01 | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870442?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Micron Technology** | DEMQRA DQA WLR Technician | Boise, ID - Main Site | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115204?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Aptiv** | Embedded Systems Engineer | Carmel, IN - USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702089?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Bose** | Engineering Project Manager | US, NY - Binghamton | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29283?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **AstraZeneca** | Principle Process Engineer, Viral Vector Process Characterization and Commercialization | Gaithersburg - MD | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-259439?s=gh-new-grad-hardware-engineering-jobs-2027) |
