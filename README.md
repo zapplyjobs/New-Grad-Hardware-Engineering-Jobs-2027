@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASML** | Electrical Engineer | Wilton, CT, USA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355150?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Hitachi** | Field Service Engineer – Gas Insulated Switchgear (GIS) | South Brunswick, New Jersey,... | 19m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0127656?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ASML** | Electrical Engineer | Wilton, CT, USA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355150?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Hitachi** | Field Service Engineer – Gas Insulated Switchgear (GIS) | South Brunswick, New Jersey,... | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0127656?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Mechanical Design Engineer - Level 4 | United States-California-San Diego | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257077?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 Associate Electrical Engineer / Electrical Engineer - Roy UT | United States-Utah-Roy | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257538?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GDIT** | VDI / Cloud Operations & Maintenance Engineer – TS/SCI Required | GA Savannah | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230916?s=gh-new-grad-hardware-engineering-jobs-2027) |
