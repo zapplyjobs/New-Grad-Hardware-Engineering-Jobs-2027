@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Systems Reliability Engineer 1 | CA-GOLETA-H01 | 5m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870442?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Aptiv** | Embedded Systems Engineer | Carmel, IN - USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702089?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Bose** | Engineering Project Manager | US, NY - Binghamton | 59m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29283?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Systems Reliability Engineer 1 | CA-GOLETA-H01 | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01870442?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Aptiv** | Embedded Systems Engineer | Carmel, IN - USA | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000702089?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Bose** | Engineering Project Manager | US, NY - Binghamton | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29283?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **AstraZeneca** | Principle Process Engineer, Viral Vector Process Characterization and Commercialization | Gaithersburg - MD | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-259439?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Automation & Controls Specialist, Launch Pad (Starship) | Starbase, TX | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8916251002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Hardware (HW) Qualification and Development Support Team (DST) Engineer IV | Santa Clara,CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632135?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Entry Level or Associate Aerospace Safety Engineer | USA - Mesa, AZ | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523589?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | Entry Level or Associate Aerospace Safety Engineer | USA - Mesa, AZ | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523589?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Firmware Engineer - Cybersecurity | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-21860?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Associate Power System Protection Engineer | Mississippi - Jackson | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24354?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Firmware Engineer - Protection Systems Platforms | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-20221?s=gh-new-grad-hardware-engineering-jobs-2027) |
