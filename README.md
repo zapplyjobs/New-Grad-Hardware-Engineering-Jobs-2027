@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Deep Learning Compiler Verification Engineer | CA Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028930?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nidec** | Application Engineer | North AmericaUSAIllinoisHoffman... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nidec-nidec-R0016114?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Abbott** | Field Service Engineer (Birmingham, AL) | United States - Alabama -... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31166484?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -98,7 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apex Technology** | Electro-Optical Engineer | Los Angeles | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-apex-technology-inc-cfa7be12-e0ce-49c6-bc9f-fe2eebc2d2e8?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Astranis** | Electrical Engineer- SDR Hardware | San Francisco | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4607847006?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Formal Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2020837?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **NVIDIA** | PCB Design Layout Engineer | US, CA, Santa Clara | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2020277?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | PCB Design Layout Engineer | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2020277?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **KBR** | TF/SR/HS Process Engineer | Houston Texas | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131497?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Clarios** | PLC Technician (First Shift) | IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50319?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Clarios** | PLC Technician (3rd Shift) | IL | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50614?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -476,7 +476,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GE Vernova** | Process Quality Engineer | Houston | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5057357?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Supplier Quality Engineer | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021428?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nidec** | Design Quality Engineer (ASPICE) | North America/USA/Illinois/St.... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nidec-nidec-R0017849?s=gh-new-grad-hardware-engineering-jobs-2027) |
