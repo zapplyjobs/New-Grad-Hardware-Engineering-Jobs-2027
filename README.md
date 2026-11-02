@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Deep Learning Compiler Verification Engineer | CA Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028930?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Micron Technology** | Intern - Process Integration – Advanced Packaging | Boise, ID - Main Site | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR115378?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Intel** | AI Silicon Performance Modeling and Analysis Engineer | US, California, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288191?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -388,7 +388,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Test Engineer | Warren, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252422?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | System Test Engineer | Charlottesville, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252256?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amentum** | Electrical Design Engineer - Analog/Digital | AL-Huntsville | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0174226?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Zipline** | Manufacturing Test Engineer | South San Francisco,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-flyzipline-8040737003?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Zipline** | Manufacturing Test Engineer | South San Francisco,... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-flyzipline-8040737003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Draper** | Electrical Integration and Test Engineer | Cambridge, MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003092?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Intel** | Analog Circuit Designer (Contract) | US, California, Folsom | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287407?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Power Electronics Engineer I - Onsite | CA-EL SEGUNDO-R02 | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883964?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -476,7 +476,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GE Vernova** | Process Quality Engineer | Houston | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5057357?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Caterpillar** | Supplier Quality Engineer - Aftertreatment | Pontiac, Illinois | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400148?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Allegion** | Manufacturing Quality Engineer | Greenfield, IN - West 350N | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR36428?s=gh-new-grad-hardware-engineering-jobs-2027) |
