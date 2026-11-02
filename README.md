@@ -65,13 +65,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Becton Dickinson** | Process & Equipment Engineer | GA Covington BMD | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-549702?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE (University)** | Signal Integrity Engineer | Sunnyvale, California, United... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1206501?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE** | Signal Integrity Engineer | Sunnyvale, California, United... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1206501?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **RTX** | Systems Engineer II - Business & Regional Avionics (Onsite) | IA-CEDAR RAPIDS | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884583?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Micron Technology** | DRAM Device & Cell Technology Engineer | Boise, ID - Main Site | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR102294?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **AspenTech** | Power Systems Engineer | Medina, Minnesota | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aspentech-aspentech-R9461?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Becton Dickinson** | Process & Equipment Engineer | GA Covington BMD | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-549702?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | Signal Integrity Engineer | Sunnyvale, California, United... | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1206501?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE** | Signal Integrity Engineer | Sunnyvale, California, United... | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1206501?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Systems Engineer II - Business & Regional Avionics (Onsite) | IA-CEDAR RAPIDS | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884583?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Micron Technology** | DRAM Device & Cell Technology Engineer | Boise, ID - Main Site | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR102294?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Optomechanical Engineer - 2 | United States-Arizona-Chandler | 59m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258691?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **AspenTech** | Power Systems Engineer | Medina, Minnesota | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aspentech-aspentech-R9461?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nissan** | Test Equipment Engineer | Farmington Hills, Michigan -... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215682?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Avionics Systems Engineer III | Greater Seattle Area | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R65237?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Launch Operations Engineer (All levels) | Space Coast, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75135?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Anduril** | FPGA Engineer | Broomfield, Colorado, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5281150007?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ABB** | Associate Mechanical Design Engineer | USA, NC, Mebane | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00046249?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ABB** | Associate Mechanical Design Engineer | USA, NC, Mebane | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00046249?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Analog Devices** | Associate Design Evaluation Engineer | US, MA, Wilmington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R268367?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Cisco** | ASIC Failure Analysis Engineer (Onsite) | San Jose, California, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030027?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Cisco** | ASIC Test Engineer (Onsite) | San Jose, California, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023684?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -368,8 +368,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | Systems Test Engineer II | Spring, Texas, United States of... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214367?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE** | Systems Test Engineer II | Spring, Texas, United States of... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214367?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | Systems Test Engineer II | Spring, Texas, United States of... | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214367?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE** | Systems Test Engineer II | Spring, Texas, United States of... | 30m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214367?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Analog Devices** | Analog Design Engineer | US, TX, Dallas, Tollway | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266775?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Electrical Test Engineer | Fort Collins, Colorado, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5281154007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -479,7 +479,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 59m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GE Vernova** | Process Quality Engineer | Houston | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5057357?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Caterpillar** | Supplier Quality Engineer - Aftertreatment | Pontiac, Illinois | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400148?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Medtronic** | Supplier Quality Engineer II | Boulder, Colorado, United... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R80967?s=gh-new-grad-hardware-engineering-jobs-2027) |
