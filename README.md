@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Micron Technology** | DRAM Device & Cell Technology Engineer | Boise, ID - Main Site | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR102294?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Nissan** | Test Equipment Engineer | Farmington Hills, Michigan -... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215682?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Micron Technology** | DRAM Device & Cell Technology Engineer | Boise, ID - Main Site | 40m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR102294?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Nissan** | Test Equipment Engineer | Farmington Hills, Michigan -... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215682?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microsoft** | Mechanical Engineering | Quincy, Washington, United States | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062383?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microsoft** | Design Verification Engineer II | United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200047135?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Avionics Systems Engineer III | Greater Seattle Area | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R65237?s=gh-new-grad-hardware-engineering-jobs-2027) |
