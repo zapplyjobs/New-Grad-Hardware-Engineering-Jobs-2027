@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Telecommunications Engineer, Fiber | College Station, TX | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934055002?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Rackner** | Field Service Representative / Trainer — Military Health IT (JOMIS) | Remote — United States | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rackner-4752559005?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Telecommunications Engineer, Fiber | College Station, TX | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934055002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Rackner** | Field Service Representative / Trainer — Military Health IT (JOMIS) | Remote — United States | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rackner-4752559005?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Tenstorrent** | Engineer, CPU Performance Verification | Austin, Texas, United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenstorrent-5284404007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amentum** | Safety Engineer | TX-Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172302?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amentum** | Safety Engineer | TX-Houston | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172304?s=gh-new-grad-hardware-engineering-jobs-2027) |
