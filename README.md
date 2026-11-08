@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Telecommunications Engineer, Fiber | College Station, TX | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934055002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Telecommunications Engineer, Fiber | College Station, TX | 56m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8934055002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rackner** | Field Service Representative / Trainer — Military Health IT (JOMIS) | Remote — United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rackner-4752559005?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Agent Development Engineer, Customer Systems | Cupertino | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200662678?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Hardware Systems Integration (iPhone) | San Diego | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693800?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | Firmware Validation Engineer | San Francisco Bay Area | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693295?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Apple** | Firmware Validation Engineer | San Francisco Bay Area | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693295?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Firmware Validation Engineer | San Francisco Bay Area | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693294?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Parsons** | Summer Embedded Developer Intern | MD, Columbia, R188299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188299?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -353,7 +353,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Varda Space** | Avionics Test Engineer II | El Segundo, California, United... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8198710003?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Varda Space** | Avionics Test Engineer II | El Segundo, California, United... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8198710003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Power Supply Test Engineer | IA-CEDAR RAPIDS | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887119?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Flight Test Engineer, Omen | Costa Mesa, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5287971007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | iPhone Touch Sensing Electrical Design Engineer | Cupertino | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200660278?s=gh-new-grad-hardware-engineering-jobs-2027) |
