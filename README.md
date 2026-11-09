@@ -353,7 +353,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **SpaceX** | Optical Test Engineer, AI Satellites (Starmind) | Bastrop, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8931042002?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **SpaceX** | Power Electronics Engineer, AI Satellites (Starmind) | Bastrop, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8931110002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Power Electronics Engineer, AI Satellites (Starmind) | Bastrop, TX | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8931110002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8198710003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer III – Motion Control, Honeybee Robotics, EGSE & Test Software | Longmont, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R66845?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Test Engineer III - HBR MC | Longmont, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73368?s=gh-new-grad-hardware-engineering-jobs-2027) |
