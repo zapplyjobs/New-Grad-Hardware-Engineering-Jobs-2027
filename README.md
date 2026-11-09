@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Process Engineer, NC Programmer (Onsite) | GA-MIDLAND-MPC | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885662?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE (University)** | Electrical Hardware Engineer Intern | Sunnyvale, California, United... | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214992?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Process Engineer, NC Programmer (Onsite) | GA-MIDLAND-MPC | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885662?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | Electrical Hardware Engineer Intern | Sunnyvale, California, United... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214992?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **JLL** | Building Systems Commissioning Engineer | North Charleston, SC | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544373?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **SpaceX** | Wi-Fi Engineer, Hardware Reliability (Starlink) | Bastrop, TX | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8932736002?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **SpaceX** | Supervisor, Hardware Reliability (Starlink) | Bastrop, TX | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8932719002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Wi-Fi Engineer, Hardware Reliability (Starlink) | Bastrop, TX | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8932736002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Supervisor, Hardware Reliability (Starlink) | Bastrop, TX | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8932719002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Hardware Engineer, AI Satellites (Starmind) | Bastrop, TX | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8930403002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Mariana Minerals** | Commissioning Engineer | Houston, TX | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-marianaminerals-5d7ea495-053d-44d6-a221-95a2c84f5c09?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rackner** | Field Service Representative / Trainer — Military Health IT (JOMIS) | Remote — United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rackner-4752559005?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Associate Engineer Electrical / Engineer Electrical | 6 Locations | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259688?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Engineer Electrical / Engineer Electrical | 6 Locations | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259688?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Caterpillar** | Senior Associate Production Performance Engineer | Lafayette, Indiana | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000403599?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Carnegie Mellon University** | Postdoctoral Research Associate - College of Engineering - Department of Mechanical Engineering | Pittsburgh, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025305?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Cisco** | ASIC DFT Engineer I (Full Time) - United States | San Jose California US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030926?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Analog Devices** | Embedded AI Tools Engineer | US, MA, Wilmington | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266809?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Analog Devices** | Embedded AI Tools Engineer | US, MA, Wilmington | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266809?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **JPMorgan Chase** | Embedded Payments Product Solutions Architect-Executive Director | Chicago, IL, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210806532?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Firmware Validation Engineer | San Francisco Bay Area | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693295?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | Firmware Validation Engineer | San Francisco Bay Area | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200693294?s=gh-new-grad-hardware-engineering-jobs-2027) |
