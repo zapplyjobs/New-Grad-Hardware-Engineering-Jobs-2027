@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | Associate or Mid-level Ground Systems Engineer for MILSATCOM Program | El Segundo, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523943?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Boeing** | Mid-level Ground Systems Engineer for MILSATCOM Program | USA - El Segundo, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507793?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | Associate or Mid-level Ground Systems Engineer for MILSATCOM Program | El Segundo, CA | 50m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523943?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | Mid-level Ground Systems Engineer for MILSATCOM Program | USA - El Segundo, CA | 50m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507793?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amentum** | Advanced Mission Design Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173094?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amentum** | Avionics Radiation Hardness Assurance Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0173089?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Amazon.com Services LLC** | Hardware Development Engineer II, Systems Safety & Automation Engineering | Bellevue, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-fed86cf1-67f4-4eae-99f2-676ad3001536?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boeing** | DSP Comm Engineer (Associate or Mid-level) | USA - El Segundo, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523658?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Boeing** | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512386?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | DSP Comm Engineer (Associate or Mid-level) | USA - El Segundo, CA | 50m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523658?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | 50m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512386?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | CPU Microarchitect / RTL Design Engineer | Santa Clara | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200694855?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Digital Design Engineer I - onsite | AZ-TUCSON-M02 | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888918?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **BAE Systems** | Engineer II - FPGA Verification | Westminster, Colorado | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132923BR?s=gh-new-grad-hardware-engineering-jobs-2027) |
