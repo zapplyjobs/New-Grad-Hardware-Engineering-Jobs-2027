@@ -16,8 +16,8 @@
 <p align="center">🚀 Hardware, embedded systems, and EE jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardware%20Jobs-6771-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
-  <img src="https://img.shields.io/badge/Hardware%20Engineer-5415-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
+  <img src="https://img.shields.io/badge/Hardware%20Jobs-6770-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
+  <img src="https://img.shields.io/badge/Hardware%20Engineer-5414-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
   <img src="https://img.shields.io/badge/Companies-432-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Unisys** | On-Site Service Engineer – Data Center / Server Hardware | Dell OSE - Denton, TX | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576863?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **RTX** | Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027) | NC-WILSON | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888251?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **RTX** | Industrial Engineering Co-Op (Spring/Summer 2027) | NC-WILSON | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887963?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Illumina** | Process Engineer II | Wisconsin - Madison | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-illumina-illumina-careers-43837-JOB?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Unisys** | On-Site Service Engineer – Data Center / Server Hardware | Dell OSE - Denton, TX | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576863?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027) | NC-WILSON | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888251?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **RTX** | Industrial Engineering Co-Op (Spring/Summer 2027) | NC-WILSON | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887963?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Illumina** | Process Engineer II | Wisconsin - Madison | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-illumina-illumina-careers-43837-JOB?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | 2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2633258?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Relativity Space** | Propulsion Responsible Engineer II, Combustion Devices | Long Beach, California, United... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-relativity-8944095002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Zayo** | Service & Delivery Design Engineer | CO - Denver | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017695?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -665,7 +665,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6771 current opportunities from 432 companies**
+**🎯 6770 current opportunities from 432 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
