@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Allison Transmission** | Simulation Modeling Engineer II | Indianapolis, IN | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008211?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Baker Hughes** | Commercial Application Engineer | Other Azerbaijan, AZ | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R168937?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Baker Hughes** | Applications Engineering - Drill Bits | Jw, ID | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170980?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | Manager Industrial Engineering 2 | United States-Florida-Melbourne | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259171?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Allison Transmission** | Simulation Modeling Engineer II | Indianapolis, IN | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008211?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Baker Hughes** | Commercial Application Engineer | Other Azerbaijan, AZ | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R168937?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Baker Hughes** | Applications Engineering - Drill Bits | Jw, ID | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170980?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Manager Industrial Engineering 2 | United States-Florida-Melbourne | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259171?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Parsons** | Electrical / Hardware Engineering Intern Summer 2027 | MD, Columbia, R188502 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188502?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **CrowdStrike** | Professional Services Technical Operations Engineer- Agentic AI (Remote) | USA - Remote | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30910?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nidec** | Field Service Engineer MV Drives | North America/USA/Ohio/Brooklyn... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nidec-nidec-R0018453?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | Firmware System Integration Engineer | US, CA, Santa Clara | 8m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029711?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NVIDIA** | Firmware System Integration Engineer | US, CA, Santa Clara | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029711?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **MITRE** | Intermediate Embedded Security Engineer | Bedford, Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R116827?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Samsung Semiconductor** | Intern, SSD Firmware Development | San Jose, California, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8203058003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **RTX** | Applied Research Engineer – Embedded Battlespace Systems (Onsite) | IA-CEDAR RAPIDS | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889560?s=gh-new-grad-hardware-engineering-jobs-2027) |
