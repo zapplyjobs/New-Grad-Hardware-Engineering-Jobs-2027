@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baker Hughes** | Applications Engineering - Drill Bits | Jw, ID | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170980?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **CrowdStrike** | Professional Services Technical Operations Engineer- Agentic AI (Remote) | USA - Remote | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30910?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Baker Hughes** | Applications Engineering - Drill Bits | Jw, ID | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R170980?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **CrowdStrike** | Professional Services Technical Operations Engineer- Agentic AI (Remote) | USA - Remote | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30910?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nidec** | Field Service Engineer MV Drives | North America/USA/Ohio/Brooklyn... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nidec-nidec-R0018453?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Northrop Grumman** | Manager Industrial Engineering 2 | United States-Florida-Melbourne | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259171?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **True Anomaly** | Electrical Engineer II-III, Avionics | Denver, CO | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trueanomalyinc-5295960007?s=gh-new-grad-hardware-engineering-jobs-2027) |
