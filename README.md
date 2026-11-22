@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Mechanical Engineer Intern - Summer 2027 | Torrance, California, United States | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Electrical Engineering Intern - Summer 2027 | Torrance, California, United States | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273149007?s=gh-new-grad-hardware-engineering-jobs-2027) |
