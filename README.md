@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Astreya** | Data Center Technician II | Remote, CO | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018591?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ASML** | Internship - Mechanical Engineer | Wilton, CT, USA | 39m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358117?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, CO | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018591?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ASML** | Internship - Mechanical Engineer | Wilton, CT, USA | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358117?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Boeing** | Struct & Payload Design Engineer | USA - Ridley Park, PA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026518702?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Micron Technology** | DRAM Design Tech Layout Engineer | Boise, ID - Main Site | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR117709?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | System Safety & Mission Assurance Engineer-Project Sunrise | Denver, CO | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75633?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Microchip Technology** | Intern - Engineering (ASIC Verification) | CA - San Jose | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4973-26?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Danaher** | Associate Field Service Engineer - Minneapolis/St. Paul, MN | Minneapolis, Minnesota, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1312212?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Carrier Global** | Associate Manufacturing Test Engineer (2nd shift) | CAG10: ALC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30220970?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 49m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rockwell Automation** | Intern - Embedded Controls Engineering | Orlando, Florida, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5043?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Avnet** | Business Development Manager – Embedded Compute Modules – Western US/Canada | Tempe, Arizona, United States... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-025039?s=gh-new-grad-hardware-engineering-jobs-2027) |
