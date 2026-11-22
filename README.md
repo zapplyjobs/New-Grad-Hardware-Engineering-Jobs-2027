@@ -16,9 +16,9 @@
 <p align="center">🚀 Hardware, embedded systems, and EE jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardware%20Jobs-7365-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
-  <img src="https://img.shields.io/badge/Hardware%20Engineer-5864-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
-  <img src="https://img.shields.io/badge/Companies-472-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Hardware%20Jobs-7364-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
+  <img src="https://img.shields.io/badge/Hardware%20Engineer-5863-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
+  <img src="https://img.shields.io/badge/Companies-471-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,15 +65,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Astreya** | Data Center Technician II | Remote, CO | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018591?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ASML** | Internship - Mechanical Engineer | Wilton, CT, USA | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358117?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Boeing** | Struct & Payload Design Engineer | USA - Ridley Park, PA | 58m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026518702?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, CO | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018591?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ASML** | Internship - Mechanical Engineer | Wilton, CT, USA | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358117?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Boeing** | Struct & Payload Design Engineer | USA - Ridley Park, PA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026518702?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Micron Technology** | DRAM Design Tech Layout Engineer | Boise, ID - Main Site | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR117709?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | System Safety & Mission Assurance Engineer-Project Sunrise | Denver, CO | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75633?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Reliability Engineer, Spacecraft | Denver, CO | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75634?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Systems Engineer, Spacecraft Thermal Control-Project Sunrise | Denver, CO | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75626?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Neros Technologies** | Mechanical Engineer Intern - Summer 2027 | Torrance, California, United States | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Neros Technologies** | Electrical Engineering Intern - Summer 2027 | Torrance, California, United States | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273149007?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Neros Technologies** | Mechanical Engineer Intern - Summer 2027 | Torrance, California, United States | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Neros Technologies** | Electrical Engineering Intern - Summer 2027 | Torrance, California, United States | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273149007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | GNC Engineer (Starship) | Starbase, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8947625002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Supplier Development Engineer, Electrical (SpaceXSI) | Bastrop, TX | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957661002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 41m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rockwell Automation** | Intern - Embedded Controls Engineering | Orlando, Florida, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5043?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Avnet** | Business Development Manager – Embedded Compute Modules – Western US/Canada | Tempe, Arizona, United States... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-025039?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -676,7 +676,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7365 current opportunities from 472 companies**
+**🎯 7364 current opportunities from 471 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
