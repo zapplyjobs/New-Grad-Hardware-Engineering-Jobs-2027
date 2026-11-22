@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Mechanical Engineer Intern - Summer 2027 | Torrance, California, United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-4648209007?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Neros Technologies** | Electrical Engineering Intern - Summer 2027 | Torrance, California, United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273149007?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **VAST** | Sensor Development Test Engineer | Long Beach, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4731412006?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | iPhone Analog Design Engineer | Cupertino | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200696388?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -515,7 +515,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Manufacturing Quality Engineer, Data Center Modular Builds | Remote | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-5a693757-8c54-43a2-abd7-44ab598d4c6e?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Solidigm** | Solid State Drive SSD Test Development Engineer | Rancho Cordova, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-solidigm-744000162603709?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Anduril** | Product Quality Engineer | Raleigh, North Carolina, United... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5258884007?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Lightmatter** | Silicon Validation & Test Automation, Intern Summer 2027 | Mountain View, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lightmatter-5473832008?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Lightmatter** | Silicon Validation & Test Automation, Intern Summer 2027 | Mountain View, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lightmatter-5473832008?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Post-Silicon Validation and Methodology Engineer | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018268?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Supplier Quality Engineer | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021428?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nidec** | Supplier Quality Engineer | North... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nidec-nidec-R0018545?s=gh-new-grad-hardware-engineering-jobs-2027) |
