@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Mechanical Engineer - Level 3 or Level 4 | United States-Arizona-Gilbert | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251610?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ABB** | Robotics Applications Engineer | USA, OR, Clackamas | 54m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Mechanical Engineer - Level 3 or Level 4 | United States-Arizona-Gilbert | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251610?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ABB** | Robotics Applications Engineer | USA, OR, Clackamas | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Micron Technology** | Software AI Platform Services Engineer | Boise, ID - Main Site | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR117966?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Associate Material Process Engineer / Material Process Engineer - Roy UT | United States-Utah-Roy | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261636?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Associate Mechanical Engineer / Mechanical Engineer - Roy UT | United States-Utah-Roy | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261748?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | 2027 Associate Systems Test Engineer / Systems Test Engineer - Roy UT | United States-Utah-Roy | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261747?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Material Process Engineer / Material Process Engineer - Roy UT | United States-Utah-Roy | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261636?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Mechanical Engineer / Mechanical Engineer - Roy UT | United States-Utah-Roy | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261748?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | 2027 Associate Systems Test Engineer / Systems Test Engineer - Roy UT | United States-Utah-Roy | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261747?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Google** | ASIC CAD IP Engineer, Cloud TPU | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-73906684350603974?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **MITRE** | Associate Embedded Security Engineer | Bedford, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R115645?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -378,8 +378,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GlobalFoundries** | Silicon Photonic (SiPh) Sort Test Engineer | Essex Junction | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2601311?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **GlobalFoundries** | Silicon Photonic (SiPh) Sort Test Engineer | Essex Junction | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2601311?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nokia** | High Speed Analog Characterization Engineer | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-42067?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
