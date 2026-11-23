@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE (University)** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2631623?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634056?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 54m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **VAST** | Sensor Development Test Engineer | Long Beach, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4731412006?s=gh-new-grad-hardware-engineering-jobs-2027) |
