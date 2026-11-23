@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 11m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | Reliability Engineer Level 2 | United States-Arizona-Chandler | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261754?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Reliability Engineer Level 2 | United States-Arizona-Chandler | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261754?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE (University)** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -377,7 +377,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 19m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Nokia** | High Speed Analog Characterization Engineer | United States | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-42067?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
