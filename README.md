@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2631623?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634056?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -228,7 +228,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Associate Mechanical Engineer | Huntsville, AL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196927?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Leidos** | ​​FPGA Design Engineer​ | Huntsville, AL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193662?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Leidos** | FPGA Engineer Intern | Arlington, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00197304?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **HPE (University)** | ASIC Design for Test Engineer | Sunnyvale, California, United... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1211215?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **HPE (University)** | ASIC Design for Test Engineer | Sunnyvale, California, United... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1211215?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Stryker** | Associate Field Service Representative | Baltimore Maryland | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577021?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Analog Devices** | Digital Design Engineering Intern - Summer 2027 | US, TX, Austin, Plaza on the Lake | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R268548?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Eversource Energy** | Associate Engineer, Substation Engineering (Hybrid Schedule) | Manchester, NH | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032086?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **VAST** | Sensor Development Test Engineer | Long Beach, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vast-4731412006?s=gh-new-grad-hardware-engineering-jobs-2027) |
