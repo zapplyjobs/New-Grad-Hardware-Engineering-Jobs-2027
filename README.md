@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ABB** | Robotics Applications Engineer | USA, OR, Clackamas | 11m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **ABB** | Robotics Applications Engineer | USA, OR, Clackamas | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043436?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE (University)** | Electrical Printed Circuit Board (PCB) Layout Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218622?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **HPE (University)** | Electrical Hardware Fabric Development Engineer | Chippewa Falls, Wisconsin,... | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218621?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Space Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8213803003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GlobalFoundries** | Cryo CMOS Analog Design Engineer | OFFSITE - USA - Illinois | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605651?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -473,7 +473,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Silicon Validation Engineer, Google Cloud | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-122655356386976454?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Odin Dynamics** | Powertrain Integration and Test Engineer | Long Beach | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-odin-dynamics-a1634847-e904-497c-8000-46aa3a87aa26?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Odin Dynamics** | Power Electronics Engineer | Long Beach | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-odin-dynamics-719ef9ab-cd0f-4ea8-899d-d998e6de7765?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Radiant Industries** | Integration & Test Engineer II | El Segundo, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-radiant-industries-9a8c81a5-1a5d-47bf-8112-6dfdf30a7814?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Radiant Industries** | Integration & Test Engineer II | El Segundo, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-radiant-industries-9a8c81a5-1a5d-47bf-8112-6dfdf30a7814?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Cadence** | Product Engineer (Analog Circuit Design) | SAN JOSE | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cadence-external-careers-R55340?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GlobalFoundries** | Quantum Analog IC Design Engineer | Austin | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605652?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Philips** | R&D Test Engineer, Ultrasound (Cambridge, MA) | Cambridge (US), Massachusetts,... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-589587?s=gh-new-grad-hardware-engineering-jobs-2027) |
