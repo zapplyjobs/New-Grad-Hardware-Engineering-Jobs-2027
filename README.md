@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Rolls-Royce** | Instrumentation Engineering Technician | Indianapolis | 4m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6153454?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician II | Remote, VA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018645?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician II | Remote, VA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018644?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician II | Remote, VA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018643?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Rolls-Royce** | Instrumentation Engineering Technician | Indianapolis | 12m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6153454?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, VA | 20m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018645?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, VA | 20m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018644?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, VA | 20m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018643?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Illumina** | Process Engineer 1 - Laser Systems | California - San Diego | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-illumina-illumina-careers-44011-JOB?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **CACI** | Digital Signal Processing (DSP) Engineer | Sterling, VA, US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330692?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **CACI** | Digital Signal Processing (DSP) Engineer | Sterling, VA, US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334144?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Booz Allen Hamilton** | Pulse Power Engineer | King George, VA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0254332?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **AeroVironment** | Manufacturing Test Engineering Multiple Levels | Albuquerque, NM | 2h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9492?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **AeroVironment** | Manufacturing Test Engineering Multiple Levels | Albuquerque, NM | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9492?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Curtiss-Wright** | Test Engineer | PA-Bethlehem | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14294?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Varda Space** | Spacecraft Avionics Test Engineer II | El Segundo, California, United... | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vardaspace-8217429003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Forterra** | Test Engineer | Clarksburg, MD | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-forterra-2d84c1f9-f9de-416d-8c9b-7b7407f402c9?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -486,7 +486,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baxter International** | Quality Engineer - Investigations | Medina, New York | 4m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-213560?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Baxter International** | Quality Engineer - Investigations | Medina, New York | 11m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-213560?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Curtiss-Wright** | Quality Engineer - Aerospace | AZ-Tempe | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13572?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **General Atomics** | Supplier Quality Engineer | Poway, California | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5223825?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **General Atomics** | Supplier Quality Engineer | Acton, Massachusetts | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5229594?s=gh-new-grad-hardware-engineering-jobs-2027) |
