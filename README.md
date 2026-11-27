@@ -16,9 +16,9 @@
 <p align="center">🚀 Hardware, embedded systems, and EE jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardware%20Jobs-7360-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
-  <img src="https://img.shields.io/badge/Hardware%20Engineer-5826-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
-  <img src="https://img.shields.io/badge/Companies-467-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Hardware%20Jobs-7355-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
+  <img src="https://img.shields.io/badge/Hardware%20Engineer-5821-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
+  <img src="https://img.shields.io/badge/Companies-466-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,14 +65,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Intel** | S6 Die Pick Technician | US, Oregon, Hillsboro | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0289447?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Northrop Grumman** | Field Service Engineer Air Defense secret clearance | United States-Alabama-Huntsville | 24m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257324?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **AES Corporation** | Electrical Engineer, Metering | US, Dayton, OH | 25m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1065420?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Jabil** | Industrial Engineering Technician I | Florence, KY | 33m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468147?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Johnson Controls** | Thermal Systems Technology Development Engineer III | New Freedom-Pennsylvania-United... | 43m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285510?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Johnson Controls** | Thermal Systems Technology Development Engineer II | New Freedom-Pennsylvania-United... | 43m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285509?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician II | Remote, VA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018640?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Astreya** | Data Center Technician II | Remote, CO | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018667?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Intel** | S6 Die Pick Technician | US, Oregon, Hillsboro | 29m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0289447?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Northrop Grumman** | Field Service Engineer Air Defense secret clearance | United States-Alabama-Huntsville | 40m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257324?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **AES Corporation** | Electrical Engineer, Metering | US, Dayton, OH | 41m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1065420?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Jabil** | Industrial Engineering Technician I | Florence, KY | 49m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468147?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Johnson Controls** | Thermal Systems Technology Development Engineer III | New Freedom-Pennsylvania-United... | 59m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285510?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Johnson Controls** | Thermal Systems Technology Development Engineer II | New Freedom-Pennsylvania-United... | 59m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285509?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, VA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018640?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Astreya** | Data Center Technician II | Remote, CO | 2h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0018667?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GlobalFoundries** | Quantum Design Manual Engineer | USA - New York - Malta | 3h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605676?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GitLab** | Enterprise Applications Engineer, Zendesk | Remote, United States | 6h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8961167002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GlobalFoundries** | Quantum PDK Design Enablement Engineer (DRC/LVS/PEX) | USA - New York - Malta | 13h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2606706?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Curtiss-Wright** | Test Engineer | PA-Bethlehem | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14294?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Curtiss-Wright** | Test Engineer | PA-Bethlehem | 2h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14294?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Mixed Signal Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023502?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Optical Package Test Engineer | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025483?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -673,7 +673,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7360 current opportunities from 467 companies**
+**🎯 7355 current opportunities from 466 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
