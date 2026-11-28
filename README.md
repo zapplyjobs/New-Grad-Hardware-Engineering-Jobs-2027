@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Illumina** | Process Engineer 1 - Laser Systems | California - San Diego | 53m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-illumina-illumina-careers-44011-JOB?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Illumina** | Process Engineer 1 - Laser Systems | California - San Diego | 59m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-illumina-illumina-careers-44011-JOB?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rolls-Royce** | Instrumentation Engineering Technician | Indianapolis | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6153454?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GDIT** | Field Service Engineer (TESA) - AFRICOM - Stuttgart, GE (Secret  - Able to obtain TS/SCI) | DEU Stuttgart - Kelley Barracks | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232393?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **CACI** | Cyber Data Analysis Engineer (Elasticsearch) | Springfield, VA, US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-335559?s=gh-new-grad-hardware-engineering-jobs-2027) |
