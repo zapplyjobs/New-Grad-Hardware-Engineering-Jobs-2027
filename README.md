@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | Engineering Technician II | USA RI Newport | 54m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ233133?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **GDIT** | Engineering Technician II | USA RI Newport | 1h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ233133?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Booz Allen Hamilton** | F-35 Sustainment Engineering Analyst | Fort Worth, TX | 5h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0254348?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Reliability Engineer II | Greater Seattle Area | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69856?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Blue Origin** | Avionics Safety Engineer III | Greater Seattle Area | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R58913?s=gh-new-grad-hardware-engineering-jobs-2027) |
