@@ -16,8 +16,8 @@
 <p align="center">🚀 Hardware, embedded systems, and EE jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hardware%20Jobs-7140-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
-  <img src="https://img.shields.io/badge/Hardware%20Engineer-5663-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
+  <img src="https://img.shields.io/badge/Hardware%20Jobs-7138-3FB950?style=flat&logo=briefcase" height="30" alt="Hardware Jobs">
+  <img src="https://img.shields.io/badge/Hardware%20Engineer-5661-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware Engineer">
   <img src="https://img.shields.io/badge/Companies-459-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -151,7 +151,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Mechanical Engineer | Redmond, Washington, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059106?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Rocket Lab** | Spacecraft Propulsion Components Engineer I | Long Beach, CA | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8058075003?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Apple** | RF Hardware Engineer - Multi-Radio Coexistence | Cupertino | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-200690507?s=gh-new-grad-hardware-engineering-jobs-2027) |
-| **Intuitive** | Mechanical Equipment Engineer | Sunnyvale, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000163740229?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Intuitive** | Mechanical Equipment Engineer | Sunnyvale, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000163740229?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Samsung Research America Internship** | 2027 Summer Intern, 6G Cellular Standardization | 6105 Tennyson Pkwy, Suite 300,... | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungresearchamericainternship-8960746002?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation | Mountain View, California, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8415223?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **NVIDIA** | Package Design Methodology Engineer | CA Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021653?s=gh-new-grad-hardware-engineering-jobs-2027) |
@@ -673,7 +673,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7140 current opportunities from 459 companies**
+**🎯 7138 current opportunities from 459 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
