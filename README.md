@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Oshkosh Corporation** | Assembler I - Powertrain | Spartanburg, South Carolina,... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R52288?s=gh-new-grad-hardware-engineering-jobs-2027) |
+| **Oshkosh Corporation** | Assembler I - Powertrain | Spartanburg, South Carolina,... | 48m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R52288?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **Atonom** | AI Workflow & Design Engineer | Provo, Utah | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/bamboohr-atonom-218?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GDIT** | Electronics Technician Maintenance IV FSR - SETAF Djibouti HOA (Secret Clearance Required) | International | 7h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ233024?s=gh-new-grad-hardware-engineering-jobs-2027) |
 | **GDIT** | Engineering Technician II | USA RI Newport | 7h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ233133?s=gh-new-grad-hardware-engineering-jobs-2027) |
